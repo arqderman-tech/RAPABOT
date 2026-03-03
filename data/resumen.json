@@ -1,0 +1,60 @@
+{
+  "variacion_dia": null,
+  "variacion_mes": null,
+  "total_productos": 124,
+  "categorias": {
+    "Helados": {
+      "total": 6,
+      "variacion_dia": null
+    },
+    "Franuí": {
+      "total": 11,
+      "variacion_dia": null
+    },
+    "Pascuas": {
+      "total": 23,
+      "variacion_dia": null
+    },
+    "Rapa-Dúos": {
+      "total": 9,
+      "variacion_dia": null
+    },
+    "Pailas & Garrapiñadas": {
+      "total": 11,
+      "variacion_dia": null
+    },
+    "Línea Pistacho & Dubái": {
+      "total": 6,
+      "variacion_dia": null
+    },
+    "Línea Marroc & Nuicciolato": {
+      "total": 8,
+      "variacion_dia": null
+    },
+    "Línea Milhojas & Praliné": {
+      "total": 1,
+      "variacion_dia": null
+    },
+    "Chocolates": {
+      "total": 15,
+      "variacion_dia": null
+    },
+    "Alfajores": {
+      "total": 11,
+      "variacion_dia": null
+    },
+    "Para los Peques": {
+      "total": 4,
+      "variacion_dia": null
+    },
+    "Regalos": {
+      "total": 10,
+      "variacion_dia": null
+    },
+    "Para el Té": {
+      "total": 9,
+      "variacion_dia": null
+    }
+  },
+  "fecha_actualizacion": "2026-03-03"
+}
