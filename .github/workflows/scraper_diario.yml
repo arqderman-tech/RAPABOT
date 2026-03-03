@@ -1,0 +1,30 @@
+name: RAPANUIBOT – Scraper Diario
+on:
+  schedule:
+    - cron: '0 15 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Instalar dependencias
+        run: pip install requests pandas
+      - name: Scraper
+        run: python rapa.py
+      - name: Analizar
+        run: python analizar_precios.py
+      - name: Generar web
+        run: python generar_web.py
+      - name: Commit y push
+        run: |
+          git config user.name "rapanuibot"
+          git config user.email "bot@rapanuibot.github.io"
+          git add -A
+          git diff --cached --quiet || git commit -m "🍦 Update $(date +'%Y-%m-%d')"
+          git push
