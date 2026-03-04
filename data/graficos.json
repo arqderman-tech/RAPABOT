@@ -1,56 +1,434 @@
 {
   "7d": {
-    "total": [],
+    "total": [
+      {
+        "fecha": "2026-03-03",
+        "pct": 0.0
+      },
+      {
+        "fecha": "2026-03-04",
+        "pct": 3.42
+      }
+    ],
     "por_categoria": {
-      "Helados": [],
-      "Franuí": [],
-      "Pascuas": [],
-      "Rapa-Dúos": [],
-      "Pailas & Garrapiñadas": [],
-      "Línea Pistacho & Dubái": [],
-      "Línea Marroc & Nuicciolato": [],
-      "Línea Milhojas & Praliné": [],
-      "Chocolates": [],
-      "Alfajores": [],
-      "Para los Peques": [],
-      "Regalos": [],
-      "Para el Té": []
+      "Helados": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Franuí": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Pascuas": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 20.8
+        }
+      ],
+      "Rapa-Dúos": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Pailas & Garrapiñadas": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Línea Pistacho & Dubái": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": -29.8
+        }
+      ],
+      "Línea Marroc & Nuicciolato": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Línea Milhojas & Praliné": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Chocolates": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Alfajores": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Para los Peques": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Regalos": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 3.64
+        }
+      ],
+      "Para el Té": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 2.22
+        }
+      ]
     }
   },
   "30d": {
-    "total": [],
+    "total": [
+      {
+        "fecha": "2026-03-03",
+        "pct": 0.0
+      },
+      {
+        "fecha": "2026-03-04",
+        "pct": 3.42
+      }
+    ],
     "por_categoria": {
-      "Helados": [],
-      "Franuí": [],
-      "Pascuas": [],
-      "Rapa-Dúos": [],
-      "Pailas & Garrapiñadas": [],
-      "Línea Pistacho & Dubái": [],
-      "Línea Marroc & Nuicciolato": [],
-      "Línea Milhojas & Praliné": [],
-      "Chocolates": [],
-      "Alfajores": [],
-      "Para los Peques": [],
-      "Regalos": [],
-      "Para el Té": []
+      "Helados": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Franuí": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Pascuas": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 20.8
+        }
+      ],
+      "Rapa-Dúos": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Pailas & Garrapiñadas": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Línea Pistacho & Dubái": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": -29.8
+        }
+      ],
+      "Línea Marroc & Nuicciolato": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Línea Milhojas & Praliné": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Chocolates": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Alfajores": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Para los Peques": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Regalos": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 3.64
+        }
+      ],
+      "Para el Té": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 2.22
+        }
+      ]
     }
   },
   "6m": {
-    "total": [],
+    "total": [
+      {
+        "fecha": "2026-03-03",
+        "pct": 0.0
+      },
+      {
+        "fecha": "2026-03-04",
+        "pct": 3.42
+      }
+    ],
     "por_categoria": {
-      "Helados": [],
-      "Franuí": [],
-      "Pascuas": [],
-      "Rapa-Dúos": [],
-      "Pailas & Garrapiñadas": [],
-      "Línea Pistacho & Dubái": [],
-      "Línea Marroc & Nuicciolato": [],
-      "Línea Milhojas & Praliné": [],
-      "Chocolates": [],
-      "Alfajores": [],
-      "Para los Peques": [],
-      "Regalos": [],
-      "Para el Té": []
+      "Helados": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Franuí": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Pascuas": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 20.8
+        }
+      ],
+      "Rapa-Dúos": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Pailas & Garrapiñadas": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Línea Pistacho & Dubái": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": -29.8
+        }
+      ],
+      "Línea Marroc & Nuicciolato": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Línea Milhojas & Praliné": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Chocolates": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Alfajores": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Para los Peques": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 0.0
+        }
+      ],
+      "Regalos": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 3.64
+        }
+      ],
+      "Para el Té": [
+        {
+          "fecha": "2026-03-03",
+          "pct": 0.0
+        },
+        {
+          "fecha": "2026-03-04",
+          "pct": 2.22
+        }
+      ]
     }
   }
 }
