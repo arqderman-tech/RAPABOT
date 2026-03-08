@@ -1,14 +1,14 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": null,
-  "total_productos": 125,
+  "total_productos": 116,
   "categorias": {
     "Helados": {
       "total": 6,
       "variacion_dia": 0.0
     },
     "Franuí": {
-      "total": 11,
+      "total": 5,
       "variacion_dia": 0.0
     },
     "Pascuas": {
@@ -16,7 +16,7 @@
       "variacion_dia": 0.0
     },
     "Rapa-Dúos": {
-      "total": 9,
+      "total": 7,
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
@@ -28,7 +28,7 @@
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
-      "total": 9,
+      "total": 8,
       "variacion_dia": 0.0
     },
     "Línea Milhojas & Praliné": {
@@ -56,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-03-07"
+  "fecha_actualizacion": "2026-03-08"
 }
