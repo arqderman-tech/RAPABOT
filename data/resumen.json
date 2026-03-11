@@ -1,7 +1,7 @@
 {
-  "variacion_dia": -0.17,
+  "variacion_dia": 0.0,
   "variacion_mes": null,
-  "total_productos": 103,
+  "total_productos": 116,
   "categorias": {
     "Pascuas": {
       "total": 29,
@@ -12,11 +12,11 @@
       "variacion_dia": 0.0
     },
     "Franuí": {
-      "total": 2,
+      "total": 11,
       "variacion_dia": 0.0
     },
     "Rapa-Dúos": {
-      "total": 5,
+      "total": 9,
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
@@ -49,12 +49,12 @@
     },
     "Regalos": {
       "total": 6,
-      "variacion_dia": -3.33
+      "variacion_dia": 0.0
     },
     "Para el Té": {
       "total": 9,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-03-10"
+  "fecha_actualizacion": "2026-03-11"
 }
