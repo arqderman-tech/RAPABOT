@@ -40,11 +40,5 @@
     "categoria": "Pascuas",
     "diff_pct": 11.11,
     "precio_hoy": 5000.0
-  },
-  {
-    "nombre": "Baguette Chico",
-    "categoria": "Regalos",
-    "diff_pct": -16.67,
-    "precio_hoy": 10000.0
   }
 ]
