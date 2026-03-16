@@ -40,5 +40,11 @@
     "categoria": "Pascuas",
     "diff_pct": 11.11,
     "precio_hoy": 5000.0
+  },
+  {
+    "nombre": "Conejo con huevo chico leche 40 gr",
+    "categoria": "Pascuas",
+    "diff_pct": 7.69,
+    "precio_hoy": 7000.0
   }
 ]

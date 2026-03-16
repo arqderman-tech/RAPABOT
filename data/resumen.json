@@ -1,11 +1,11 @@
 {
-  "variacion_dia": 0.0,
+  "variacion_dia": 0.18,
   "variacion_mes": null,
   "total_productos": 131,
   "categorias": {
     "Pascuas": {
       "total": 36,
-      "variacion_dia": 0.0
+      "variacion_dia": 0.66
     },
     "Helados": {
       "total": 6,
@@ -36,7 +36,7 @@
       "variacion_dia": 0.0
     },
     "Chocolates": {
-      "total": 15,
+      "total": 14,
       "variacion_dia": 0.0
     },
     "Alfajores": {
@@ -44,7 +44,7 @@
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 8,
+      "total": 9,
       "variacion_dia": 0.0
     },
     "Para el Té": {
@@ -52,5 +52,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-03-15"
+  "fecha_actualizacion": "2026-03-16"
 }
