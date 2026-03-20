@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": null,
-  "total_productos": 138,
+  "total_productos": 137,
   "categorias": {
     "Pascuas": {
       "total": 45,
@@ -24,7 +24,7 @@
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
-      "total": 3,
+      "total": 2,
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
@@ -52,5 +52,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-03-19"
+  "fecha_actualizacion": "2026-03-20"
 }
