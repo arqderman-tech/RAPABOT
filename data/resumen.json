@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": null,
-  "total_productos": 137,
+  "total_productos": 135,
   "categorias": {
     "Pascuas": {
       "total": 45,
@@ -20,7 +20,7 @@
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
-      "total": 12,
+      "total": 11,
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
@@ -48,9 +48,9 @@
       "variacion_dia": 0.0
     },
     "Para el Té": {
-      "total": 11,
+      "total": 10,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-03-21"
+  "fecha_actualizacion": "2026-03-22"
 }
