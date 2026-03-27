@@ -1,10 +1,10 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": null,
-  "total_productos": 113,
+  "total_productos": 139,
   "categorias": {
     "Pascuas": {
-      "total": 44,
+      "total": 43,
       "variacion_dia": 0.0
     },
     "Helados": {
@@ -20,37 +20,37 @@
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
-      "total": 9,
+      "total": 11,
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
-      "total": 1,
+      "total": 2,
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
-      "total": 5,
-      "variacion_dia": 0.0
-    },
-    "Chocolates": {
-      "total": 13,
-      "variacion_dia": 0.0
-    },
-    "Alfajores": {
-      "total": 1,
-      "variacion_dia": 0.0
-    },
-    "Para los Peques": {
-      "total": 1,
-      "variacion_dia": 0.0
-    },
-    "Regalos": {
       "total": 6,
       "variacion_dia": 0.0
     },
+    "Chocolates": {
+      "total": 20,
+      "variacion_dia": 0.0
+    },
+    "Alfajores": {
+      "total": 10,
+      "variacion_dia": 0.0
+    },
+    "Para los Peques": {
+      "total": 3,
+      "variacion_dia": 0.0
+    },
+    "Regalos": {
+      "total": 8,
+      "variacion_dia": 0.0
+    },
     "Para el Té": {
-      "total": 7,
+      "total": 10,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-03-26"
+  "fecha_actualizacion": "2026-03-27"
 }
