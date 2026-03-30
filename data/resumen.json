@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": null,
-  "total_productos": 122,
+  "total_productos": 119,
   "categorias": {
     "Pascuas": {
       "total": 42,
@@ -16,7 +16,7 @@
       "variacion_dia": 0.0
     },
     "Rapa-Dúos": {
-      "total": 9,
+      "total": 8,
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
@@ -36,7 +36,7 @@
       "variacion_dia": 0.0
     },
     "Alfajores": {
-      "total": 6,
+      "total": 4,
       "variacion_dia": 0.0
     },
     "Para los Peques": {
@@ -52,5 +52,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-03-29"
+  "fecha_actualizacion": "2026-03-30"
 }
