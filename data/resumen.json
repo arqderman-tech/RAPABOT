@@ -1,10 +1,10 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": null,
-  "total_productos": 118,
+  "total_productos": 112,
   "categorias": {
     "Pascuas": {
-      "total": 41,
+      "total": 37,
       "variacion_dia": 0.0
     },
     "Helados": {
@@ -39,10 +39,6 @@
       "total": 4,
       "variacion_dia": 0.0
     },
-    "Para los Peques": {
-      "total": 2,
-      "variacion_dia": 0.0
-    },
     "Regalos": {
       "total": 6,
       "variacion_dia": 0.0
@@ -52,5 +48,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-03-31"
+  "fecha_actualizacion": "2026-04-01"
 }
