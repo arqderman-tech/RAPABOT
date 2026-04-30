@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": 0.0,
-  "total_productos": 110,
+  "total_productos": 108,
   "categorias": {
     "Chocolates": {
       "total": 20,
@@ -28,7 +28,7 @@
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
-      "total": 7,
+      "total": 5,
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
@@ -52,5 +52,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-04-29"
+  "fecha_actualizacion": "2026-04-30"
 }
