@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": 0.0,
-  "total_productos": 92,
+  "total_productos": 91,
   "categorias": {
     "Chocolates": {
       "total": 13,
@@ -24,7 +24,7 @@
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
-      "total": 8,
+      "total": 7,
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
@@ -56,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-05-24"
+  "fecha_actualizacion": "2026-05-25"
 }
