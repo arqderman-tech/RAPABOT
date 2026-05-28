@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": 0.0,
-  "total_productos": 105,
+  "total_productos": 104,
   "categorias": {
     "RapaMundi": {
       "total": 8,
@@ -56,9 +56,9 @@
       "variacion_dia": 0.0
     },
     "Para el Té": {
-      "total": 8,
+      "total": 7,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-05-27"
+  "fecha_actualizacion": "2026-05-28"
 }
