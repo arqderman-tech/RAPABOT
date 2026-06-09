@@ -24,13 +24,13 @@
     "precio_hoy": 23800.0
   },
   {
-    "nombre": "Pote FRANUÍ PINK + 1/2 kg de Helado",
+    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 6.73,
     "precio_hoy": 23800.0
   },
   {
-    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
+    "nombre": "Pote FRANUÍ PINK + 1/2 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 6.73,
     "precio_hoy": 23800.0
@@ -40,6 +40,12 @@
     "categoria": "Rapa-Dúos",
     "diff_pct": 6.73,
     "precio_hoy": 23800.0
+  },
+  {
+    "nombre": "Oso con Pelota pequeño",
+    "categoria": "RapaMundi",
+    "diff_pct": 6.25,
+    "precio_hoy": 8500.0
   },
   {
     "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",

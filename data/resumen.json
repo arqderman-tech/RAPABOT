@@ -1,7 +1,7 @@
 {
-  "variacion_dia": 0.61,
-  "variacion_mes": 0.71,
-  "total_productos": 115,
+  "variacion_dia": 0.06,
+  "variacion_mes": 0.72,
+  "total_productos": 113,
   "categorias": {
     "Para Papá": {
       "total": 10,
@@ -9,7 +9,7 @@
     },
     "RapaMundi": {
       "total": 7,
-      "variacion_dia": 0.0
+      "variacion_dia": 0.89
     },
     "Chocolates": {
       "total": 17,
@@ -17,7 +17,7 @@
     },
     "Helados": {
       "total": 6,
-      "variacion_dia": 4.3
+      "variacion_dia": 0.0
     },
     "Franuí": {
       "total": 11,
@@ -25,7 +25,7 @@
     },
     "Rapa-Dúos": {
       "total": 9,
-      "variacion_dia": 4.9
+      "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
       "total": 11,
@@ -44,7 +44,7 @@
       "variacion_dia": 0.0
     },
     "Alfajores": {
-      "total": 7,
+      "total": 6,
       "variacion_dia": 0.0
     },
     "Para los Peques": {
@@ -52,7 +52,7 @@
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 7,
+      "total": 6,
       "variacion_dia": 0.0
     },
     "Para el Té": {
@@ -60,5 +60,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-06-08"
+  "fecha_actualizacion": "2026-06-09"
 }
