@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
   "variacion_mes": 0.65,
-  "total_productos": 125,
+  "total_productos": 124,
   "categorias": {
     "Para Papá": {
       "total": 9,
@@ -52,7 +52,7 @@
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 9,
+      "total": 8,
       "variacion_dia": 0.0
     },
     "Para el Té": {
@@ -60,5 +60,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-06-11"
+  "fecha_actualizacion": "2026-06-12"
 }
