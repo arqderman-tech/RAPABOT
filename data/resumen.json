@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 0.65,
-  "total_productos": 124,
+  "variacion_mes": 0.67,
+  "total_productos": 122,
   "categorias": {
     "Para Papá": {
       "total": 9,
@@ -28,11 +28,11 @@
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
-      "total": 11,
+      "total": 10,
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
-      "total": 7,
+      "total": 6,
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
@@ -60,5 +60,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-06-12"
+  "fecha_actualizacion": "2026-06-13"
 }
