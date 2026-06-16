@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 0.72,
-  "total_productos": 113,
+  "variacion_mes": 0.74,
+  "total_productos": 111,
   "categorias": {
     "Para Papá": {
       "total": 9,
@@ -40,11 +40,11 @@
       "variacion_dia": 0.0
     },
     "Línea Milhojas & Praliné": {
-      "total": 2,
+      "total": 1,
       "variacion_dia": 0.0
     },
     "Alfajores": {
-      "total": 7,
+      "total": 6,
       "variacion_dia": 0.0
     },
     "Para los Peques": {
@@ -60,5 +60,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-06-15"
+  "fecha_actualizacion": "2026-06-16"
 }
