@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 0.72,
-  "total_productos": 114,
+  "variacion_mes": 0.78,
+  "total_productos": 107,
   "categorias": {
     "Para Papá": {
       "total": 9,
@@ -12,7 +12,7 @@
       "variacion_dia": 0.0
     },
     "Chocolates": {
-      "total": 21,
+      "total": 18,
       "variacion_dia": 0.0
     },
     "Helados": {
@@ -44,15 +44,15 @@
       "variacion_dia": 0.0
     },
     "Alfajores": {
-      "total": 7,
-      "variacion_dia": 0.0
-    },
-    "Para los Peques": {
       "total": 5,
       "variacion_dia": 0.0
     },
+    "Para los Peques": {
+      "total": 4,
+      "variacion_dia": 0.0
+    },
     "Regalos": {
-      "total": 7,
+      "total": 6,
       "variacion_dia": 0.0
     },
     "Para el Té": {
@@ -60,5 +60,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-06-21"
+  "fecha_actualizacion": "2026-06-22"
 }
