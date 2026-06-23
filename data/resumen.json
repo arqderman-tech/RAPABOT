@@ -1,14 +1,14 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 0.78,
-  "total_productos": 107,
+  "variacion_mes": 0.81,
+  "total_productos": 100,
   "categorias": {
-    "Para Papá": {
-      "total": 9,
+    "RapaMundi": {
+      "total": 7,
       "variacion_dia": 0.0
     },
-    "RapaMundi": {
-      "total": 8,
+    "Para Papá": {
+      "total": 7,
       "variacion_dia": 0.0
     },
     "Chocolates": {
@@ -52,7 +52,7 @@
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 6,
+      "total": 2,
       "variacion_dia": 0.0
     },
     "Para el Té": {
@@ -60,5 +60,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-06-22"
+  "fecha_actualizacion": "2026-06-23"
 }
