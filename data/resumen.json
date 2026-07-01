@@ -1,10 +1,10 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 0.78,
-  "total_productos": 107,
+  "variacion_mes": 0.68,
+  "total_productos": 122,
   "categorias": {
     "RapaMundi": {
-      "total": 7,
+      "total": 8,
       "variacion_dia": 0.0
     },
     "Para Papá": {
@@ -12,7 +12,7 @@
       "variacion_dia": 0.0
     },
     "Chocolates": {
-      "total": 18,
+      "total": 22,
       "variacion_dia": 0.0
     },
     "Helados": {
@@ -28,7 +28,7 @@
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
-      "total": 8,
+      "total": 10,
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
@@ -48,17 +48,17 @@
       "variacion_dia": 0.0
     },
     "Para los Peques": {
-      "total": 5,
+      "total": 6,
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 7,
+      "total": 9,
       "variacion_dia": 0.0
     },
     "Para el Té": {
-      "total": 5,
+      "total": 10,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-06-30"
+  "fecha_actualizacion": "2026-07-01"
 }
