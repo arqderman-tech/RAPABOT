@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 0.67,
-  "total_productos": 121,
+  "variacion_mes": 0.68,
+  "total_productos": 119,
   "categorias": {
     "RapaMundi": {
       "total": 8,
@@ -40,7 +40,7 @@
       "variacion_dia": 0.0
     },
     "Alfajores": {
-      "total": 8,
+      "total": 7,
       "variacion_dia": 0.0
     },
     "Para los Peques": {
@@ -48,7 +48,7 @@
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 14,
+      "total": 13,
       "variacion_dia": 0.0
     },
     "Para el Té": {
@@ -56,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-07-03"
+  "fecha_actualizacion": "2026-07-04"
 }
