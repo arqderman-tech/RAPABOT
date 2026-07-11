@@ -1,12 +1,18 @@
 [
   {
+    "nombre": "Tableta Chocolate con Frambuesa y Cranberries",
+    "categoria": "Chocolates",
+    "diff_pct": 11.11,
+    "precio_hoy": 5000.0
+  },
+  {
     "nombre": "Tableta Chocolate Blanco con Limón y Jengibre",
     "categoria": "Chocolates",
     "diff_pct": 11.11,
     "precio_hoy": 5000.0
   },
   {
-    "nombre": "Tableta Chocolate con Frambuesa y Cranberries",
+    "nombre": "Tableta Chocolate con Café Expreso y Nib de Cacao",
     "categoria": "Chocolates",
     "diff_pct": 11.11,
     "precio_hoy": 5000.0
@@ -18,19 +24,7 @@
     "precio_hoy": 15000.0
   },
   {
-    "nombre": "Tableta Chocolate con Café Expreso y Nib de Cacao",
-    "categoria": "Chocolates",
-    "diff_pct": 11.11,
-    "precio_hoy": 5000.0
-  },
-  {
-    "nombre": "Rama blanca 60 grs",
-    "categoria": "Chocolates",
-    "diff_pct": 10.0,
-    "precio_hoy": 5500.0
-  },
-  {
-    "nombre": "Rama leche 60 grs",
+    "nombre": "Rama amarga 60 grs",
     "categoria": "Chocolates",
     "diff_pct": 10.0,
     "precio_hoy": 5500.0
@@ -42,7 +36,13 @@
     "precio_hoy": 11000.0
   },
   {
-    "nombre": "Rama amarga 60 grs",
+    "nombre": "Rama blanca 60 grs",
+    "categoria": "Chocolates",
+    "diff_pct": 10.0,
+    "precio_hoy": 5500.0
+  },
+  {
+    "nombre": "Rama leche 60 grs",
     "categoria": "Chocolates",
     "diff_pct": 10.0,
     "precio_hoy": 5500.0
@@ -66,25 +66,13 @@
     "precio_hoy": 4000.0
   },
   {
-    "nombre": "Barrita marroc 50 grs",
-    "categoria": "Línea Marroc & Nuicciolato",
-    "diff_pct": 7.14,
-    "precio_hoy": 4500.0
-  },
-  {
-    "nombre": "Nuicciolato",
-    "categoria": "Línea Marroc & Nuicciolato",
-    "diff_pct": 7.14,
-    "precio_hoy": 4500.0
-  },
-  {
-    "nombre": "Almendras bañadas en chocolate leche",
+    "nombre": "Almendras bañadas en chocolate semiamargo",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 7.14,
     "precio_hoy": 7500.0
   },
   {
-    "nombre": "Almendras bañadas en chocolate semiamargo",
+    "nombre": "Almendras bañadas en chocolate leche",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 7.14,
     "precio_hoy": 7500.0
@@ -102,13 +90,25 @@
     "precio_hoy": 4500.0
   },
   {
+    "nombre": "Barrita marroc crocante 50 grs",
+    "categoria": "Línea Marroc & Nuicciolato",
+    "diff_pct": 7.14,
+    "precio_hoy": 4500.0
+  },
+  {
     "nombre": "Cranberries bañados en chocolate blanco y amargo",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 7.14,
     "precio_hoy": 7500.0
   },
   {
-    "nombre": "Barrita marroc crocante 50 grs",
+    "nombre": "Barrita marroc 50 grs",
+    "categoria": "Línea Marroc & Nuicciolato",
+    "diff_pct": 7.14,
+    "precio_hoy": 4500.0
+  },
+  {
+    "nombre": "Nuicciolato",
     "categoria": "Línea Marroc & Nuicciolato",
     "diff_pct": 7.14,
     "precio_hoy": 4500.0
@@ -132,14 +132,14 @@
     "precio_hoy": 5000.0
   },
   {
-    "nombre": "Paila Pistachos Bañados",
-    "categoria": "Línea Pistacho & Dubái",
+    "nombre": "Paila Nuicciolato",
+    "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 6.25,
     "precio_hoy": 8500.0
   },
   {
-    "nombre": "Paila Nuicciolato",
-    "categoria": "Pailas & Garrapiñadas",
+    "nombre": "Paila Pistachos Bañados",
+    "categoria": "Línea Pistacho & Dubái",
     "diff_pct": 6.25,
     "precio_hoy": 8500.0
   },
@@ -162,13 +162,13 @@
     "precio_hoy": 5800.0
   },
   {
-    "nombre": "Garrapiñada de nueces pecan",
+    "nombre": "Garrapiñada de almendras",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 5.45,
     "precio_hoy": 5800.0
   },
   {
-    "nombre": "Garrapiñada de almendras",
+    "nombre": "Garrapiñada de nueces pecan",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 5.45,
     "precio_hoy": 5800.0
