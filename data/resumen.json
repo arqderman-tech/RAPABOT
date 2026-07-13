@@ -1,14 +1,18 @@
 {
-  "variacion_dia": 0.05,
-  "variacion_mes": 3.66,
-  "total_productos": 108,
+  "variacion_dia": 0.0,
+  "variacion_mes": 3.37,
+  "total_productos": 97,
   "categorias": {
     "RapaMundi": {
       "total": 6,
-      "variacion_dia": 0.9
+      "variacion_dia": 0.0
+    },
+    "Gift Cards": {
+      "total": 1,
+      "variacion_dia": null
     },
     "Chocolates": {
-      "total": 18,
+      "total": 15,
       "variacion_dia": 0.0
     },
     "Helados": {
@@ -24,7 +28,7 @@
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
-      "total": 10,
+      "total": 9,
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
@@ -32,15 +36,15 @@
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
-      "total": 8,
+      "total": 7,
       "variacion_dia": 0.0
     },
     "Línea Milhojas & Praliné": {
-      "total": 2,
+      "total": 1,
       "variacion_dia": 0.0
     },
     "Alfajores": {
-      "total": 6,
+      "total": 2,
       "variacion_dia": 0.0
     },
     "Para los Peques": {
@@ -48,13 +52,13 @@
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 11,
+      "total": 10,
       "variacion_dia": 0.0
     },
     "Para el Té": {
-      "total": 10,
+      "total": 9,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-07-12"
+  "fecha_actualizacion": "2026-07-13"
 }

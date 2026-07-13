@@ -6,7 +6,7 @@
     "precio_hoy": 15000.0
   },
   {
-    "nombre": "Tableta Chocolate con Frambuesa y Cranberries",
+    "nombre": "Tableta Chocolate con Café Expreso y Nib de Cacao",
     "categoria": "Chocolates",
     "diff_pct": 11.11,
     "precio_hoy": 5000.0
@@ -18,7 +18,7 @@
     "precio_hoy": 5000.0
   },
   {
-    "nombre": "Tableta Chocolate con Café Expreso y Nib de Cacao",
+    "nombre": "Tableta Chocolate con Frambuesa y Cranberries",
     "categoria": "Chocolates",
     "diff_pct": 11.11,
     "precio_hoy": 5000.0
@@ -31,18 +31,6 @@
   },
   {
     "nombre": "Rama amarga 60 grs",
-    "categoria": "Chocolates",
-    "diff_pct": 10.0,
-    "precio_hoy": 5500.0
-  },
-  {
-    "nombre": "Rama mixta (Leche+Blanco)",
-    "categoria": "Chocolates",
-    "diff_pct": 10.0,
-    "precio_hoy": 11000.0
-  },
-  {
-    "nombre": "Rama leche 60 grs",
     "categoria": "Chocolates",
     "diff_pct": 10.0,
     "precio_hoy": 5500.0
@@ -66,37 +54,19 @@
     "precio_hoy": 4000.0
   },
   {
-    "nombre": "Barrita marroc 50 grs",
-    "categoria": "Línea Marroc & Nuicciolato",
-    "diff_pct": 7.14,
-    "precio_hoy": 4500.0
-  },
-  {
     "nombre": "Almendras bañadas en chocolate semiamargo",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 7.14,
     "precio_hoy": 7500.0
   },
   {
-    "nombre": "Almendras bañadas en chocolate leche",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 7.14,
-    "precio_hoy": 7500.0
-  },
-  {
-    "nombre": "Milhojas Chocolate con leche",
-    "categoria": "Línea Milhojas & Praliné",
+    "nombre": "Nuicciolato",
+    "categoria": "Línea Marroc & Nuicciolato",
     "diff_pct": 7.14,
     "precio_hoy": 4500.0
   },
   {
-    "nombre": "Milhojas Chocolate Blanco",
-    "categoria": "Línea Milhojas & Praliné",
-    "diff_pct": 7.14,
-    "precio_hoy": 4500.0
-  },
-  {
-    "nombre": "Barrita marroc crocante 50 grs",
+    "nombre": "Barrita marroc 50 grs",
     "categoria": "Línea Marroc & Nuicciolato",
     "diff_pct": 7.14,
     "precio_hoy": 4500.0
@@ -108,8 +78,8 @@
     "precio_hoy": 7500.0
   },
   {
-    "nombre": "Nuicciolato",
-    "categoria": "Línea Marroc & Nuicciolato",
+    "nombre": "Milhojas Chocolate Blanco",
+    "categoria": "Línea Milhojas & Praliné",
     "diff_pct": 7.14,
     "precio_hoy": 4500.0
   },
@@ -144,25 +114,7 @@
     "precio_hoy": 8500.0
   },
   {
-    "nombre": "Tableta Gota",
-    "categoria": "Chocolates",
-    "diff_pct": 5.56,
-    "precio_hoy": 9500.0
-  },
-  {
-    "nombre": "Garrapiñada de nueces pecan",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 5.45,
-    "precio_hoy": 5800.0
-  },
-  {
     "nombre": "Garrapiñada de castañas de cajú",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 5.45,
-    "precio_hoy": 5800.0
-  },
-  {
-    "nombre": "Garrapiñada de avellanas",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 5.45,
     "precio_hoy": 5800.0
@@ -174,9 +126,57 @@
     "precio_hoy": 5800.0
   },
   {
+    "nombre": "Garrapiñada de nueces pecan",
+    "categoria": "Pailas & Garrapiñadas",
+    "diff_pct": 5.45,
+    "precio_hoy": 5800.0
+  },
+  {
+    "nombre": "Garrapiñada de avellanas",
+    "categoria": "Pailas & Garrapiñadas",
+    "diff_pct": 5.45,
+    "precio_hoy": 5800.0
+  },
+  {
+    "nombre": "Caja surtido armada 250 g (No personalizable.)",
+    "categoria": "Regalos",
+    "diff_pct": 5.41,
+    "precio_hoy": 19500.0
+  },
+  {
     "nombre": "1/4 Surtido Faja Mundial",
     "categoria": "RapaMundi",
     "diff_pct": 5.41,
     "precio_hoy": 19500.0
+  },
+  {
+    "nombre": "Caja surtido armada 500 g (No personalizable.)",
+    "categoria": "Regalos",
+    "diff_pct": 5.41,
+    "precio_hoy": 39000.0
+  },
+  {
+    "nombre": "Caja surtido armada 1 kg (No personalizable.)",
+    "categoria": "Regalos",
+    "diff_pct": 5.41,
+    "precio_hoy": 78000.0
+  },
+  {
+    "nombre": "Caja marroc crocante 275 grs",
+    "categoria": "Línea Marroc & Nuicciolato",
+    "diff_pct": 5.26,
+    "precio_hoy": 20000.0
+  },
+  {
+    "nombre": "Ositos leche x 12",
+    "categoria": "Para los Peques",
+    "diff_pct": 5.0,
+    "precio_hoy": 12600.0
+  },
+  {
+    "nombre": "Rapanuino Clásico",
+    "categoria": "Para el Té",
+    "diff_pct": 5.0,
+    "precio_hoy": 4200.0
   }
 ]
