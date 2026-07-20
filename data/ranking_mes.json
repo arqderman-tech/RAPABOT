@@ -48,20 +48,14 @@
     "precio_hoy": 4000.0
   },
   {
+    "nombre": "Avellanas bañadas en chocolate leche",
+    "categoria": "Pailas & Garrapiñadas",
+    "diff_pct": 7.14,
+    "precio_hoy": 7500.0
+  },
+  {
     "nombre": "Barrita marroc crocante 50 grs",
     "categoria": "Línea Marroc & Nuicciolato",
-    "diff_pct": 7.14,
-    "precio_hoy": 4500.0
-  },
-  {
-    "nombre": "Barrita marroc 50 grs",
-    "categoria": "Línea Marroc & Nuicciolato",
-    "diff_pct": 7.14,
-    "precio_hoy": 4500.0
-  },
-  {
-    "nombre": "Milhojas Chocolate con leche",
-    "categoria": "Línea Milhojas & Praliné",
     "diff_pct": 7.14,
     "precio_hoy": 4500.0
   },
@@ -78,7 +72,13 @@
     "precio_hoy": 4500.0
   },
   {
-    "nombre": "Avellanas bañadas en chocolate leche",
+    "nombre": "Barrita marroc 50 grs",
+    "categoria": "Línea Marroc & Nuicciolato",
+    "diff_pct": 7.14,
+    "precio_hoy": 4500.0
+  },
+  {
+    "nombre": "Almendras bañadas en chocolate leche",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 7.14,
     "precio_hoy": 7500.0
@@ -90,10 +90,10 @@
     "precio_hoy": 7500.0
   },
   {
-    "nombre": "Almendras bañadas en chocolate leche",
-    "categoria": "Pailas & Garrapiñadas",
+    "nombre": "Milhojas Chocolate con leche",
+    "categoria": "Línea Milhojas & Praliné",
     "diff_pct": 7.14,
-    "precio_hoy": 7500.0
+    "precio_hoy": 4500.0
   },
   {
     "nombre": "Pote Fondue microondas",
@@ -126,19 +126,13 @@
     "precio_hoy": 8500.0
   },
   {
-    "nombre": "Garrapiñada de castañas de cajú",
+    "nombre": "Garrapiñada de avellanas",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 5.45,
     "precio_hoy": 5800.0
   },
   {
     "nombre": "Garrapiñada de almendras",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 5.45,
-    "precio_hoy": 5800.0
-  },
-  {
-    "nombre": "Garrapiñada de avellanas",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 5.45,
     "precio_hoy": 5800.0
@@ -178,5 +172,11 @@
     "categoria": "Para el Té",
     "diff_pct": 5.0,
     "precio_hoy": 4200.0
+  },
+  {
+    "nombre": "Praliné Pistachos Caramelizados",
+    "categoria": "Línea Pistacho & Dubái",
+    "diff_pct": 5.0,
+    "precio_hoy": 6300.0
   }
 ]
