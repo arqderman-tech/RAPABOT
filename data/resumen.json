@@ -1,7 +1,7 @@
 {
-  "variacion_dia": 0.08,
-  "variacion_mes": 3.77,
-  "total_productos": 111,
+  "variacion_dia": 0.0,
+  "variacion_mes": 3.76,
+  "total_productos": 110,
   "categorias": {
     "RapaMundi": {
       "total": 4,
@@ -13,7 +13,7 @@
     },
     "Chocolates": {
       "total": 20,
-      "variacion_dia": 0.46
+      "variacion_dia": 0.0
     },
     "Helados": {
       "total": 6,
@@ -44,7 +44,7 @@
       "variacion_dia": 0.0
     },
     "Para los Peques": {
-      "total": 2,
+      "total": 1,
       "variacion_dia": 0.0
     },
     "Alfajores": {
@@ -60,5 +60,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-07-22"
+  "fecha_actualizacion": "2026-07-23"
 }
