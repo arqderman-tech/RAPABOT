@@ -1,7 +1,7 @@
 {
-  "variacion_dia": 0.03,
-  "variacion_mes": 3.7,
-  "total_productos": 100,
+  "variacion_dia": 0.0,
+  "variacion_mes": 3.57,
+  "total_productos": 98,
   "categorias": {
     "RapaMundi": {
       "total": 3,
@@ -12,7 +12,7 @@
       "variacion_dia": 0.0
     },
     "Chocolates": {
-      "total": 20,
+      "total": 18,
       "variacion_dia": 0.0
     },
     "Helados": {
@@ -53,12 +53,12 @@
     },
     "Regalos": {
       "total": 12,
-      "variacion_dia": 0.23
+      "variacion_dia": 0.0
     },
     "Para el Té": {
       "total": 9,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-07-25"
+  "fecha_actualizacion": "2026-07-26"
 }

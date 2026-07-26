@@ -30,18 +30,6 @@
     "precio_hoy": 5500.0
   },
   {
-    "nombre": "Rama leche 60 grs",
-    "categoria": "Chocolates",
-    "diff_pct": 10.0,
-    "precio_hoy": 5500.0
-  },
-  {
-    "nombre": "Rama mixta (Leche+Blanco)",
-    "categoria": "Chocolates",
-    "diff_pct": 10.0,
-    "precio_hoy": 11000.0
-  },
-  {
     "nombre": "Café molido",
     "categoria": "Para el Té",
     "diff_pct": 9.29,
@@ -72,6 +60,12 @@
     "precio_hoy": 4500.0
   },
   {
+    "nombre": "Cranberries bañados en chocolate blanco y amargo",
+    "categoria": "Pailas & Garrapiñadas",
+    "diff_pct": 7.14,
+    "precio_hoy": 7500.0
+  },
+  {
     "nombre": "Almendras bañadas en chocolate semiamargo",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 7.14,
@@ -79,12 +73,6 @@
   },
   {
     "nombre": "Almendras bañadas en chocolate leche",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 7.14,
-    "precio_hoy": 7500.0
-  },
-  {
-    "nombre": "Cranberries bañados en chocolate blanco y amargo",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 7.14,
     "precio_hoy": 7500.0
@@ -178,5 +166,17 @@
     "categoria": "Línea Pistacho & Dubái",
     "diff_pct": 5.0,
     "precio_hoy": 6300.0
+  },
+  {
+    "nombre": "Crema de Pistachos",
+    "categoria": "Línea Pistacho & Dubái",
+    "diff_pct": 4.84,
+    "precio_hoy": 32500.0
+  },
+  {
+    "nombre": "Tableta de chocolate 70% cacao",
+    "categoria": "Chocolates",
+    "diff_pct": 4.62,
+    "precio_hoy": 6800.0
   }
 ]
