@@ -48,37 +48,13 @@
     "precio_hoy": 4000.0
   },
   {
-    "nombre": "Avellanas bañadas en chocolate leche",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 7.14,
-    "precio_hoy": 7500.0
-  },
-  {
-    "nombre": "Barrita marroc 50 grs",
+    "nombre": "Barrita marroc crocante 50 grs",
     "categoria": "Línea Marroc & Nuicciolato",
     "diff_pct": 7.14,
     "precio_hoy": 4500.0
   },
   {
-    "nombre": "Cranberries bañados en chocolate blanco y amargo",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 7.14,
-    "precio_hoy": 7500.0
-  },
-  {
-    "nombre": "Almendras bañadas en chocolate semiamargo",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 7.14,
-    "precio_hoy": 7500.0
-  },
-  {
-    "nombre": "Almendras bañadas en chocolate leche",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 7.14,
-    "precio_hoy": 7500.0
-  },
-  {
-    "nombre": "Barrita marroc crocante 50 grs",
+    "nombre": "Barrita marroc 50 grs",
     "categoria": "Línea Marroc & Nuicciolato",
     "diff_pct": 7.14,
     "precio_hoy": 4500.0
@@ -90,10 +66,22 @@
     "precio_hoy": 4500.0
   },
   {
+    "nombre": "Almendras bañadas en chocolate leche",
+    "categoria": "Pailas & Garrapiñadas",
+    "diff_pct": 7.14,
+    "precio_hoy": 7500.0
+  },
+  {
     "nombre": "Nuicciolato",
     "categoria": "Línea Marroc & Nuicciolato",
     "diff_pct": 7.14,
     "precio_hoy": 4500.0
+  },
+  {
+    "nombre": "Almendras bañadas en chocolate semiamargo",
+    "categoria": "Pailas & Garrapiñadas",
+    "diff_pct": 7.14,
+    "precio_hoy": 7500.0
   },
   {
     "nombre": "Pote Fondue microondas",
@@ -120,22 +108,16 @@
     "precio_hoy": 9500.0
   },
   {
-    "nombre": "Garrapiñada de castañas de cajú",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 5.45,
-    "precio_hoy": 5800.0
-  },
-  {
     "nombre": "Garrapiñada de almendras",
     "categoria": "Pailas & Garrapiñadas",
     "diff_pct": 5.45,
     "precio_hoy": 5800.0
   },
   {
-    "nombre": "Garrapiñada de avellanas",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 5.45,
-    "precio_hoy": 5800.0
+    "nombre": "Caja surtido armada 1 kg (No personalizable.)",
+    "categoria": "Regalos",
+    "diff_pct": 5.41,
+    "precio_hoy": 78000.0
   },
   {
     "nombre": "Caja surtido armada 500 g (No personalizable.)",
@@ -148,12 +130,6 @@
     "categoria": "Regalos",
     "diff_pct": 5.41,
     "precio_hoy": 19500.0
-  },
-  {
-    "nombre": "Caja surtido armada 1 kg (No personalizable.)",
-    "categoria": "Regalos",
-    "diff_pct": 5.41,
-    "precio_hoy": 78000.0
   },
   {
     "nombre": "Trufas x 3",
@@ -174,7 +150,31 @@
     "precio_hoy": 32500.0
   },
   {
+    "nombre": "Tableta de chocolate 60% cacao",
+    "categoria": "Chocolates",
+    "diff_pct": 4.62,
+    "precio_hoy": 6800.0
+  },
+  {
     "nombre": "Tableta de chocolate 70% cacao",
+    "categoria": "Chocolates",
+    "diff_pct": 4.62,
+    "precio_hoy": 6800.0
+  },
+  {
+    "nombre": "Tableta de chocolate 80% cacao",
+    "categoria": "Chocolates",
+    "diff_pct": 4.62,
+    "precio_hoy": 6800.0
+  },
+  {
+    "nombre": "Tableta de chocolate blanco",
+    "categoria": "Chocolates",
+    "diff_pct": 4.62,
+    "precio_hoy": 6800.0
+  },
+  {
+    "nombre": "Tableta de chocolate leche con almendras SIN azúcar",
     "categoria": "Chocolates",
     "diff_pct": 4.62,
     "precio_hoy": 6800.0
