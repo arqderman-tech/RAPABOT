@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 3.43,
-  "total_productos": 91,
+  "variacion_mes": 3.45,
+  "total_productos": 92,
   "categorias": {
     "RapaMundi": {
       "total": 3,
@@ -32,7 +32,7 @@
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
-      "total": 6,
+      "total": 7,
       "variacion_dia": 0.0
     },
     "Línea Milhojas & Praliné": {
@@ -56,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-07-27"
+  "fecha_actualizacion": "2026-07-28"
 }
