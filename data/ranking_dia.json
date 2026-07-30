@@ -1,32 +1,8 @@
 [
   {
-    "nombre": "Oso con pelota",
+    "nombre": "Piggy Submarino",
     "categoria": "Para los Peques",
-    "diff_pct": 5.88,
-    "precio_hoy": 9000.0
-  },
-  {
-    "nombre": "Torta Galesa",
-    "categoria": "Para el Té",
-    "diff_pct": 5.26,
-    "precio_hoy": 10000.0
-  },
-  {
-    "nombre": "Ositos blancos x 6",
-    "categoria": "Para los Peques",
-    "diff_pct": 5.0,
-    "precio_hoy": 6300.0
-  },
-  {
-    "nombre": "Kit Tortugas",
-    "categoria": "Para los Peques",
-    "diff_pct": 4.92,
-    "precio_hoy": 12800.0
-  },
-  {
-    "nombre": "Licor de Chocolate 250 ml",
-    "categoria": "Regalos",
-    "diff_pct": 3.85,
-    "precio_hoy": 13500.0
+    "diff_pct": -55.79,
+    "precio_hoy": 4200.0
   }
 ]
