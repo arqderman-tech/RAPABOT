@@ -1,6 +1,6 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 4.11,
+  "variacion_mes": 0.84,
   "total_productos": 123,
   "categorias": {
     "Para los Peques": {
@@ -52,5 +52,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-08-08"
+  "fecha_actualizacion": "2026-08-09"
 }
