@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 0.84,
-  "total_productos": 123,
+  "variacion_mes": 0.85,
+  "total_productos": 122,
   "categorias": {
     "Para los Peques": {
       "total": 16,
@@ -28,7 +28,7 @@
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
-      "total": 7,
+      "total": 6,
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
@@ -52,5 +52,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-08-09"
+  "fecha_actualizacion": "2026-08-10"
 }
