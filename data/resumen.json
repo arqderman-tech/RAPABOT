@@ -1,14 +1,14 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 1.88,
-  "total_productos": 124,
+  "variacion_mes": 1.9,
+  "total_productos": 123,
   "categorias": {
     "Para los Peques": {
       "total": 16,
       "variacion_dia": 0.0
     },
     "Chocolates": {
-      "total": 21,
+      "total": 20,
       "variacion_dia": 0.0
     },
     "Helados": {
@@ -52,5 +52,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-08-13"
+  "fecha_actualizacion": "2026-08-14"
 }

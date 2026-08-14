@@ -1,9 +1,9 @@
 [
   {
-    "nombre": "Jugo de Frambuesa y Frutilla",
-    "categoria": "Para el Té",
-    "diff_pct": 12.5,
-    "precio_hoy": 4500.0
+    "nombre": "Pote Franuí FREE",
+    "categoria": "Franuí",
+    "diff_pct": 8.22,
+    "precio_hoy": 7900.0
   },
   {
     "nombre": "Dúo FREE",
@@ -24,12 +24,6 @@
     "precio_hoy": 15800.0
   },
   {
-    "nombre": "Pote Franuí FREE",
-    "categoria": "Franuí",
-    "diff_pct": 8.22,
-    "precio_hoy": 7900.0
-  },
-  {
     "nombre": "Duo Franui FREE + PINK",
     "categoria": "Franuí",
     "diff_pct": 8.22,
@@ -42,13 +36,19 @@
     "precio_hoy": 31600.0
   },
   {
+    "nombre": "Pote Franuí LECHE",
+    "categoria": "Franuí",
+    "diff_pct": 8.22,
+    "precio_hoy": 7900.0
+  },
+  {
     "nombre": "Pote Franuí AMARGO",
     "categoria": "Franuí",
     "diff_pct": 8.22,
     "precio_hoy": 7900.0
   },
   {
-    "nombre": "Pote Franuí LECHE",
+    "nombre": "Pote Franuí PINK",
     "categoria": "Franuí",
     "diff_pct": 8.22,
     "precio_hoy": 7900.0
@@ -66,19 +66,7 @@
     "precio_hoy": 23700.0
   },
   {
-    "nombre": "Pote Franuí PINK",
-    "categoria": "Franuí",
-    "diff_pct": 8.22,
-    "precio_hoy": 7900.0
-  },
-  {
     "nombre": "Pote FRANUÍ FREE+ 1/4 de helado",
-    "categoria": "Rapa-Dúos",
-    "diff_pct": 3.53,
-    "precio_hoy": 17600.0
-  },
-  {
-    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 3.53,
     "precio_hoy": 17600.0
@@ -90,13 +78,19 @@
     "precio_hoy": 17600.0
   },
   {
+    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
+    "categoria": "Rapa-Dúos",
+    "diff_pct": 3.53,
+    "precio_hoy": 17600.0
+  },
+  {
     "nombre": "Pote FRANUÍ PINK + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 3.53,
     "precio_hoy": 17600.0
   },
   {
-    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
+    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 3.53,
     "precio_hoy": 17600.0
