@@ -1,14 +1,14 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 1.65,
-  "total_productos": 112,
+  "variacion_mes": 1.7,
+  "total_productos": 109,
   "categorias": {
     "Para los Peques": {
       "total": 16,
       "variacion_dia": 0.0
     },
     "Chocolates": {
-      "total": 15,
+      "total": 14,
       "variacion_dia": 0.0
     },
     "Helados": {
@@ -28,11 +28,11 @@
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
-      "total": 7,
+      "total": 6,
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
-      "total": 9,
+      "total": 8,
       "variacion_dia": 0.0
     },
     "Línea Milhojas & Praliné": {
@@ -52,5 +52,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-08-16"
+  "fecha_actualizacion": "2026-08-17"
 }
