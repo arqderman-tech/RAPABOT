@@ -1,14 +1,14 @@
 {
-  "variacion_dia": 0.0,
-  "variacion_mes": 1.76,
-  "total_productos": 106,
+  "variacion_dia": 0.05,
+  "variacion_mes": 1.72,
+  "total_productos": 118,
   "categorias": {
     "Para los Peques": {
       "total": 16,
       "variacion_dia": 0.0
     },
     "Chocolates": {
-      "total": 14,
+      "total": 19,
       "variacion_dia": 0.0
     },
     "Helados": {
@@ -28,11 +28,15 @@
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
-      "total": 6,
+      "total": 7,
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
-      "total": 8,
+      "total": 10,
+      "variacion_dia": 0.0
+    },
+    "Línea Milhojas & Praliné": {
+      "total": 2,
       "variacion_dia": 0.0
     },
     "Alfajores": {
@@ -40,13 +44,13 @@
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 8,
-      "variacion_dia": 0.0
+      "total": 10,
+      "variacion_dia": 0.58
     },
     "Para el Té": {
       "total": 11,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-08-18"
+  "fecha_actualizacion": "2026-08-19"
 }
