@@ -1,6 +1,6 @@
 {
-  "variacion_dia": 0.05,
-  "variacion_mes": 1.72,
+  "variacion_dia": 0.0,
+  "variacion_mes": 1.73,
   "total_productos": 118,
   "categorias": {
     "Para los Peques": {
@@ -8,7 +8,7 @@
       "variacion_dia": 0.0
     },
     "Chocolates": {
-      "total": 19,
+      "total": 18,
       "variacion_dia": 0.0
     },
     "Helados": {
@@ -45,12 +45,12 @@
     },
     "Regalos": {
       "total": 10,
-      "variacion_dia": 0.58
+      "variacion_dia": 0.0
     },
     "Para el Té": {
-      "total": 11,
+      "total": 12,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-08-19"
+  "fecha_actualizacion": "2026-08-20"
 }
