@@ -1,5 +1,11 @@
 [
   {
+    "nombre": "Tableta Pistachos",
+    "categoria": "Línea Pistacho & Dubái",
+    "diff_pct": 6.67,
+    "precio_hoy": 8000.0
+  },
+  {
     "nombre": "Colección Dulzura",
     "categoria": "Regalos",
     "diff_pct": 5.82,

@@ -12,7 +12,7 @@
     "precio_hoy": 5000.0
   },
   {
-    "nombre": "Dúo FREE",
+    "nombre": "Dúo Franuí FREE + LECHE",
     "categoria": "Franuí",
     "diff_pct": 8.22,
     "precio_hoy": 15800.0
@@ -24,7 +24,7 @@
     "precio_hoy": 31600.0
   },
   {
-    "nombre": "Duo Franui FREE + PINK",
+    "nombre": "Dúo FREE",
     "categoria": "Franuí",
     "diff_pct": 8.22,
     "precio_hoy": 15800.0
@@ -36,7 +36,7 @@
     "precio_hoy": 7900.0
   },
   {
-    "nombre": "Pote Franuí LECHE",
+    "nombre": "Pote Franuí AMARGO",
     "categoria": "Franuí",
     "diff_pct": 8.22,
     "precio_hoy": 7900.0
@@ -48,22 +48,22 @@
     "precio_hoy": 7900.0
   },
   {
-    "nombre": "Pote Franuí AMARGO",
-    "categoria": "Franuí",
-    "diff_pct": 8.22,
-    "precio_hoy": 7900.0
-  },
-  {
     "nombre": "Dúo Franuí PINK",
     "categoria": "Franuí",
     "diff_pct": 8.22,
     "precio_hoy": 15800.0
   },
   {
-    "nombre": "Dúo Franuí FREE + LECHE",
+    "nombre": "Pote Franuí LECHE",
     "categoria": "Franuí",
     "diff_pct": 8.22,
-    "precio_hoy": 15800.0
+    "precio_hoy": 7900.0
+  },
+  {
+    "nombre": "Trío Franuí",
+    "categoria": "Franuí",
+    "diff_pct": 8.22,
+    "precio_hoy": 23700.0
   },
   {
     "nombre": "Duo Franuí FREE + AMARGO",
@@ -72,10 +72,16 @@
     "precio_hoy": 15800.0
   },
   {
-    "nombre": "Trío Franuí",
+    "nombre": "Duo Franui FREE + PINK",
     "categoria": "Franuí",
     "diff_pct": 8.22,
-    "precio_hoy": 23700.0
+    "precio_hoy": 15800.0
+  },
+  {
+    "nombre": "Tableta Pistachos",
+    "categoria": "Línea Pistacho & Dubái",
+    "diff_pct": 6.67,
+    "precio_hoy": 8000.0
   },
   {
     "nombre": "Oso con pelota",
@@ -108,18 +114,6 @@
     "precio_hoy": 12800.0
   },
   {
-    "nombre": "Tableta de chocolate 90% cacao",
-    "categoria": "Chocolates",
-    "diff_pct": 4.62,
-    "precio_hoy": 6800.0
-  },
-  {
-    "nombre": "Tableta de chocolate 80% cacao",
-    "categoria": "Chocolates",
-    "diff_pct": 4.62,
-    "precio_hoy": 6800.0
-  },
-  {
     "nombre": "Licor de Chocolate 250 ml",
     "categoria": "Regalos",
     "diff_pct": 3.85,
@@ -138,6 +132,12 @@
     "precio_hoy": 17600.0
   },
   {
+    "nombre": "Pote FRANUÍ PINK + 1/4 kg de Helado",
+    "categoria": "Rapa-Dúos",
+    "diff_pct": 3.53,
+    "precio_hoy": 17600.0
+  },
+  {
     "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 3.53,
@@ -150,16 +150,16 @@
     "precio_hoy": 17600.0
   },
   {
-    "nombre": "Pote FRANUÍ PINK + 1/4 kg de Helado",
+    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 3.53,
     "precio_hoy": 17600.0
   },
   {
-    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
+    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
     "categoria": "Rapa-Dúos",
-    "diff_pct": 3.53,
-    "precio_hoy": 17600.0
+    "diff_pct": 2.52,
+    "precio_hoy": 24400.0
   },
   {
     "nombre": "Pote FRANUÍ LECHE + 1/2 kg de Helado",
@@ -174,7 +174,7 @@
     "precio_hoy": 24400.0
   },
   {
-    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
+    "nombre": "Pote FRANUÍ PINK + 1/2 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 2.52,
     "precio_hoy": 24400.0
