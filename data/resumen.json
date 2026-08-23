@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 1.79,
-  "total_productos": 103,
+  "variacion_mes": 1.8,
+  "total_productos": 102,
   "categorias": {
     "Para los Peques": {
       "total": 15,
@@ -40,7 +40,7 @@
       "variacion_dia": 0.0
     },
     "Alfajores": {
-      "total": 8,
+      "total": 7,
       "variacion_dia": 0.0
     },
     "Regalos": {
@@ -52,5 +52,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-08-22"
+  "fecha_actualizacion": "2026-08-23"
 }
