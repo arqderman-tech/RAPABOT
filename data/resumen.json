@@ -1,14 +1,14 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 1.89,
-  "total_productos": 98,
+  "variacion_mes": 0.9,
+  "total_productos": 92,
   "categorias": {
     "Para los Peques": {
       "total": 15,
       "variacion_dia": 0.0
     },
     "Chocolates": {
-      "total": 14,
+      "total": 12,
       "variacion_dia": 0.0
     },
     "Helados": {
@@ -24,7 +24,7 @@
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
-      "total": 9,
+      "total": 6,
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
@@ -48,9 +48,9 @@
       "variacion_dia": 0.0
     },
     "Para el Té": {
-      "total": 9,
+      "total": 8,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-08-26"
+  "fecha_actualizacion": "2026-08-28"
 }
