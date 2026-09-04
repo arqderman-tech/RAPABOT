@@ -1,6 +1,6 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 1.2,
+  "variacion_mes": 1.09,
   "total_productos": 120,
   "categorias": {
     "Chocolates": {
@@ -52,5 +52,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-09-03"
+  "fecha_actualizacion": "2026-09-04"
 }
