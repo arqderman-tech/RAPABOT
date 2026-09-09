@@ -1,5 +1,11 @@
 [
   {
+    "nombre": "Jugo de Frambuesa y Frutilla",
+    "categoria": "Para el Té",
+    "diff_pct": 11.11,
+    "precio_hoy": 5000.0
+  },
+  {
     "nombre": "1/4 kg de Helado",
     "categoria": "Helados",
     "diff_pct": 8.25,
@@ -24,7 +30,7 @@
     "precio_hoy": 25600.0
   },
   {
-    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
+    "nombre": "Pote FRANUÍ LECHE + 1/2 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 4.92,
     "precio_hoy": 25600.0
@@ -36,13 +42,19 @@
     "precio_hoy": 25600.0
   },
   {
-    "nombre": "Pote FRANUÍ LECHE + 1/2 kg de Helado",
+    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 4.92,
     "precio_hoy": 25600.0
   },
   {
     "nombre": "Pote FRANUÍ FREE+ 1/4 de helado",
+    "categoria": "Rapa-Dúos",
+    "diff_pct": 4.55,
+    "precio_hoy": 18400.0
+  },
+  {
+    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 4.55,
     "precio_hoy": 18400.0
@@ -61,12 +73,6 @@
   },
   {
     "nombre": "Pote FRANUÍ LECHE + 1/4 kg de helado",
-    "categoria": "Rapa-Dúos",
-    "diff_pct": 4.55,
-    "precio_hoy": 18400.0
-  },
-  {
-    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 4.55,
     "precio_hoy": 18400.0

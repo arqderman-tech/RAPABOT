@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "nombre": "Jugo de Frambuesa y Frutilla",
+    "categoria": "Para el Té",
+    "diff_pct": 11.11,
+    "precio_hoy": 5000.0
+  }
+]
