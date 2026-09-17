@@ -1,10 +1,10 @@
 {
-  "variacion_dia": 0.37,
-  "variacion_mes": 0.77,
-  "total_productos": 118,
+  "variacion_dia": 0.0,
+  "variacion_mes": 0.78,
+  "total_productos": 117,
   "categorias": {
     "Chocolates": {
-      "total": 17,
+      "total": 16,
       "variacion_dia": 0.0
     },
     "Alfajores": {
@@ -49,8 +49,8 @@
     },
     "Para el Té": {
       "total": 12,
-      "variacion_dia": 3.67
+      "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-09-16"
+  "fecha_actualizacion": "2026-09-17"
 }
