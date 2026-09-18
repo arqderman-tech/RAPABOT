@@ -30,25 +30,7 @@
     "precio_hoy": 8000.0
   },
   {
-    "nombre": "Colección Dulzura",
-    "categoria": "Regalos",
-    "diff_pct": 5.82,
-    "precio_hoy": 30900.0
-  },
-  {
     "nombre": "Pote FRANUÍ FREE + 1/2 kg de Helado",
-    "categoria": "Rapa-Dúos",
-    "diff_pct": 4.92,
-    "precio_hoy": 25600.0
-  },
-  {
-    "nombre": "Pote FRANUÍ LECHE + 1/2 kg de Helado",
-    "categoria": "Rapa-Dúos",
-    "diff_pct": 4.92,
-    "precio_hoy": 25600.0
-  },
-  {
-    "nombre": "Pote FRANUÍ PINK + 1/2 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 4.92,
     "precio_hoy": 25600.0
@@ -60,13 +42,19 @@
     "precio_hoy": 25600.0
   },
   {
-    "nombre": "Pote FRANUÍ FREE+ 1/4 de helado",
+    "nombre": "Pote FRANUÍ PINK + 1/2 kg de Helado",
     "categoria": "Rapa-Dúos",
-    "diff_pct": 4.55,
-    "precio_hoy": 18400.0
+    "diff_pct": 4.92,
+    "precio_hoy": 25600.0
   },
   {
-    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
+    "nombre": "Pote FRANUÍ LECHE + 1/2 kg de Helado",
+    "categoria": "Rapa-Dúos",
+    "diff_pct": 4.92,
+    "precio_hoy": 25600.0
+  },
+  {
+    "nombre": "Pote FRANUÍ FREE+ 1/4 de helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 4.55,
     "precio_hoy": 18400.0
@@ -78,13 +66,19 @@
     "precio_hoy": 18400.0
   },
   {
-    "nombre": "Pote FRANUÍ PINK + 1/4 kg de Helado",
+    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 4.55,
     "precio_hoy": 18400.0
   },
   {
-    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
+    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
+    "categoria": "Rapa-Dúos",
+    "diff_pct": 4.55,
+    "precio_hoy": 18400.0
+  },
+  {
+    "nombre": "Pote FRANUÍ PINK + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 4.55,
     "precio_hoy": 18400.0
