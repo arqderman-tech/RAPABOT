@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "nombre": "Gift Card Online - copia",
+    "categoria": "Para Mamá",
+    "diff_pct": 700.0,
+    "precio_hoy": 80000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Para Mamá",
+    "diff_pct": 700.0,
+    "precio_hoy": 80000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Para Mamá",
+    "diff_pct": 500.0,
+    "precio_hoy": 60000.0
+  },
+  {
+    "nombre": "Gift Card Online - copia",
+    "categoria": "Para Mamá",
+    "diff_pct": 500.0,
+    "precio_hoy": 60000.0
+  },
+  {
+    "nombre": "Gift Card Online - copia",
+    "categoria": "Para Mamá",
+    "diff_pct": 400.0,
+    "precio_hoy": 50000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Para Mamá",
+    "diff_pct": 400.0,
+    "precio_hoy": 50000.0
+  },
+  {
+    "nombre": "Gift Card Online - copia",
+    "categoria": "Para Mamá",
+    "diff_pct": 300.0,
+    "precio_hoy": 40000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Para Mamá",
+    "diff_pct": 300.0,
+    "precio_hoy": 40000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Para Mamá",
+    "diff_pct": 200.0,
+    "precio_hoy": 30000.0
+  },
+  {
+    "nombre": "Gift Card Online - copia",
+    "categoria": "Para Mamá",
+    "diff_pct": 200.0,
+    "precio_hoy": 30000.0
+  },
+  {
+    "nombre": "Gift Card Online - copia",
+    "categoria": "Para Mamá",
+    "diff_pct": 100.0,
+    "precio_hoy": 20000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Para Mamá",
+    "diff_pct": 100.0,
+    "precio_hoy": 20000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Para Mamá",
+    "diff_pct": 50.0,
+    "precio_hoy": 15000.0
+  },
+  {
+    "nombre": "Gift Card Online - copia",
+    "categoria": "Para Mamá",
+    "diff_pct": 50.0,
+    "precio_hoy": 15000.0
+  }
+]
