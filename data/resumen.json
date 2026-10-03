@@ -1,14 +1,14 @@
 {
-  "variacion_dia": -2.21,
-  "variacion_mes": 20.61,
-  "total_productos": 132,
+  "variacion_dia": 17.58,
+  "variacion_mes": 21.36,
+  "total_productos": 128,
   "categorias": {
     "Para Mamá": {
       "total": 12,
-      "variacion_dia": 187.5
+      "variacion_dia": -3.12
     },
     "Chocolates": {
-      "total": 20,
+      "total": 19,
       "variacion_dia": 0.0
     },
     "Alfajores": {
@@ -36,7 +36,7 @@
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
-      "total": 9,
+      "total": 8,
       "variacion_dia": 0.0
     },
     "Línea Milhojas & Praliné": {
@@ -44,7 +44,7 @@
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 10,
+      "total": 8,
       "variacion_dia": 0.0
     },
     "Para los Peques": {
@@ -56,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-10-02"
+  "fecha_actualizacion": "2026-10-03"
 }
