@@ -1,11 +1,11 @@
 {
-  "variacion_dia": 17.72,
-  "variacion_mes": 21.55,
-  "total_productos": 127,
+  "variacion_dia": 0.0,
+  "variacion_mes": 1.18,
+  "total_productos": 126,
   "categorias": {
     "Para Mamá": {
       "total": 12,
-      "variacion_dia": -3.12
+      "variacion_dia": 0.0
     },
     "Chocolates": {
       "total": 19,
@@ -16,7 +16,7 @@
       "variacion_dia": 0.0
     },
     "Helados": {
-      "total": 6,
+      "total": 5,
       "variacion_dia": 0.0
     },
     "Franuí": {
@@ -56,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-10-04"
+  "fecha_actualizacion": "2026-10-05"
 }
