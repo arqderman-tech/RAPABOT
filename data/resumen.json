@@ -1,11 +1,11 @@
 {
-  "variacion_dia": 0.0,
+  "variacion_dia": 17.86,
   "variacion_mes": 1.18,
   "total_productos": 126,
   "categorias": {
     "Para Mamá": {
       "total": 12,
-      "variacion_dia": 0.0
+      "variacion_dia": -3.12
     },
     "Chocolates": {
       "total": 19,
@@ -56,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-10-05"
+  "fecha_actualizacion": "2026-10-06"
 }
