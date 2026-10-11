@@ -1,7 +1,7 @@
 {
-  "variacion_dia": 17.05,
-  "variacion_mes": 0.48,
-  "total_productos": 132,
+  "variacion_dia": 17.31,
+  "variacion_mes": 0.49,
+  "total_productos": 130,
   "categorias": {
     "Para Mamá": {
       "total": 13,
@@ -36,7 +36,7 @@
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
-      "total": 9,
+      "total": 8,
       "variacion_dia": 0.0
     },
     "Línea Milhojas & Praliné": {
@@ -52,9 +52,9 @@
       "variacion_dia": 0.0
     },
     "Para el Té": {
-      "total": 14,
+      "total": 13,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-10-10"
+  "fecha_actualizacion": "2026-10-11"
 }
