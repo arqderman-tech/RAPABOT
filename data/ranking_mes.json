@@ -1,24 +1,18 @@
 [
   {
-    "nombre": "Bocaditos de Nuez",
-    "categoria": "Para el Té",
-    "diff_pct": 44.07,
-    "precio_hoy": 8500.0
-  },
-  {
     "nombre": "Dúo FREE",
     "categoria": "Franuí",
     "diff_pct": 7.59,
     "precio_hoy": 17000.0
   },
   {
-    "nombre": "Duo Franuí FREE + AMARGO",
+    "nombre": "Dúo Franuí FREE + LECHE",
     "categoria": "Franuí",
     "diff_pct": 7.59,
     "precio_hoy": 17000.0
   },
   {
-    "nombre": "Dúo Franuí FREE + LECHE",
+    "nombre": "Duo Franuí FREE + AMARGO",
     "categoria": "Franuí",
     "diff_pct": 7.59,
     "precio_hoy": 17000.0
@@ -36,28 +30,28 @@
     "precio_hoy": 34000.0
   },
   {
-    "nombre": "Pote Franuí PINK",
-    "categoria": "Franuí",
-    "diff_pct": 7.59,
-    "precio_hoy": 8500.0
-  },
-  {
     "nombre": "Pote Franuí LECHE",
     "categoria": "Franuí",
     "diff_pct": 7.59,
     "precio_hoy": 8500.0
   },
   {
-    "nombre": "Trío Franuí",
+    "nombre": "Pote Franuí PINK",
     "categoria": "Franuí",
     "diff_pct": 7.59,
-    "precio_hoy": 25500.0
+    "precio_hoy": 8500.0
   },
   {
     "nombre": "Dúo Franuí PINK",
     "categoria": "Franuí",
     "diff_pct": 7.59,
     "precio_hoy": 17000.0
+  },
+  {
+    "nombre": "Trío Franuí",
+    "categoria": "Franuí",
+    "diff_pct": 7.59,
+    "precio_hoy": 25500.0
   },
   {
     "nombre": "Colección Amo el Chocolate y DDL",
@@ -84,13 +78,13 @@
     "precio_hoy": 19000.0
   },
   {
-    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
+    "nombre": "Pote FRANUÍ PINK + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 3.26,
     "precio_hoy": 19000.0
   },
   {
-    "nombre": "Pote FRANUÍ PINK + 1/4 kg de Helado",
+    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 3.26,
     "precio_hoy": 19000.0
@@ -108,13 +102,13 @@
     "precio_hoy": 26200.0
   },
   {
-    "nombre": "Pote FRANUÍ PINK + 1/2 kg de Helado",
+    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 2.34,
     "precio_hoy": 26200.0
   },
   {
-    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
+    "nombre": "Pote FRANUÍ PINK + 1/2 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 2.34,
     "precio_hoy": 26200.0
