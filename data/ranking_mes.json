@@ -54,19 +54,7 @@
     "precio_hoy": 25500.0
   },
   {
-    "nombre": "Colección Amo el Chocolate y DDL",
-    "categoria": "Regalos",
-    "diff_pct": 6.17,
-    "precio_hoy": 24100.0
-  },
-  {
     "nombre": "Pote FRANUÍ FREE+ 1/4 de helado",
-    "categoria": "Rapa-Dúos",
-    "diff_pct": 3.26,
-    "precio_hoy": 19000.0
-  },
-  {
-    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 3.26,
     "precio_hoy": 19000.0
@@ -78,13 +66,19 @@
     "precio_hoy": 19000.0
   },
   {
+    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
+    "categoria": "Rapa-Dúos",
+    "diff_pct": 3.26,
+    "precio_hoy": 19000.0
+  },
+  {
     "nombre": "Pote FRANUÍ PINK + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 3.26,
     "precio_hoy": 19000.0
   },
   {
-    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
+    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 3.26,
     "precio_hoy": 19000.0
