@@ -1,15 +1,11 @@
 {
-  "variacion_dia": 1.38,
+  "variacion_dia": 0.0,
   "variacion_mes": 3.14,
-  "total_productos": 83,
+  "total_productos": 81,
   "categorias": {
-    "Para Mamá": {
-      "total": 3,
-      "variacion_dia": 0.0
-    },
     "Helados": {
       "total": 6,
-      "variacion_dia": 5.01
+      "variacion_dia": 0.0
     },
     "Franuí": {
       "total": 11,
@@ -17,7 +13,7 @@
     },
     "Rapa-Dúos": {
       "total": 9,
-      "variacion_dia": 5.98
+      "variacion_dia": 0.0
     },
     "Chocolates": {
       "total": 11,
@@ -40,7 +36,7 @@
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 3,
+      "total": 4,
       "variacion_dia": 0.0
     },
     "Para los Peques": {
@@ -49,8 +45,8 @@
     },
     "Para el Té": {
       "total": 9,
-      "variacion_dia": 3.44
+      "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-10-19"
+  "fecha_actualizacion": "2026-10-20"
 }
