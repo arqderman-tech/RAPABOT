@@ -1,7 +1,7 @@
 {
   "variacion_dia": 0.0,
-  "variacion_mes": 3.14,
-  "total_productos": 81,
+  "variacion_mes": 2.48,
+  "total_productos": 99,
   "categorias": {
     "Helados": {
       "total": 6,
@@ -16,11 +16,11 @@
       "variacion_dia": 0.0
     },
     "Chocolates": {
-      "total": 11,
+      "total": 21,
       "variacion_dia": 0.0
     },
     "Alfajores": {
-      "total": 4,
+      "total": 8,
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
@@ -32,7 +32,7 @@
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
-      "total": 7,
+      "total": 8,
       "variacion_dia": 0.0
     },
     "Regalos": {
@@ -40,13 +40,13 @@
       "variacion_dia": 0.0
     },
     "Para los Peques": {
-      "total": 10,
+      "total": 11,
       "variacion_dia": 0.0
     },
     "Para el Té": {
-      "total": 9,
+      "total": 11,
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-10-20"
+  "fecha_actualizacion": "2026-10-21"
 }
