@@ -1,5 +1,47 @@
 [
   {
+    "nombre": "Gift Card Online",
+    "categoria": "Gift Cards",
+    "diff_pct": 700.0,
+    "precio_hoy": 80000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Gift Cards",
+    "diff_pct": 500.0,
+    "precio_hoy": 60000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Gift Cards",
+    "diff_pct": 400.0,
+    "precio_hoy": 50000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Gift Cards",
+    "diff_pct": 300.0,
+    "precio_hoy": 40000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Gift Cards",
+    "diff_pct": 200.0,
+    "precio_hoy": 30000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Gift Cards",
+    "diff_pct": 100.0,
+    "precio_hoy": 20000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Gift Cards",
+    "diff_pct": 50.0,
+    "precio_hoy": 15000.0
+  },
+  {
     "nombre": "Rapanuino Clásico",
     "categoria": "Para el Té",
     "diff_pct": 30.95,
@@ -24,19 +66,19 @@
     "precio_hoy": 11500.0
   },
   {
-    "nombre": "Pote FRANUÍ FREE + 1/2 kg de Helado",
-    "categoria": "Rapa-Dúos",
-    "diff_pct": 9.38,
-    "precio_hoy": 28000.0
-  },
-  {
-    "nombre": "Pote FRANUÍ PINK + 1/2 kg de Helado",
+    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 6.87,
     "precio_hoy": 28000.0
   },
   {
-    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
+    "nombre": "Pote FRANUÍ FREE + 1/2 kg de Helado",
+    "categoria": "Rapa-Dúos",
+    "diff_pct": 6.87,
+    "precio_hoy": 28000.0
+  },
+  {
+    "nombre": "Pote FRANUÍ PINK + 1/2 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 6.87,
     "precio_hoy": 28000.0
@@ -60,13 +102,13 @@
     "precio_hoy": 20000.0
   },
   {
-    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
+    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 5.26,
     "precio_hoy": 20000.0
   },
   {
-    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
+    "nombre": "PAILA NUICCIOLATO + 1/4 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 5.26,
     "precio_hoy": 20000.0
@@ -76,5 +118,11 @@
     "categoria": "Rapa-Dúos",
     "diff_pct": 5.26,
     "precio_hoy": 20000.0
+  },
+  {
+    "nombre": "Dúo Pistacho Lovers",
+    "categoria": "Línea Pistacho & Dubái",
+    "diff_pct": 3.12,
+    "precio_hoy": 16500.0
   }
 ]
