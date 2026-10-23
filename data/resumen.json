@@ -1,11 +1,11 @@
 {
-  "variacion_dia": 20.48,
-  "variacion_mes": 24.79,
-  "total_productos": 110,
+  "variacion_dia": 20.64,
+  "variacion_mes": 24.3,
+  "total_productos": 109,
   "categorias": {
     "Gift Cards": {
       "total": 8,
-      "variacion_dia": 281.25
+      "variacion_dia": -52.34
     },
     "Helados": {
       "total": 6,
@@ -33,14 +33,14 @@
     },
     "Línea Pistacho & Dubái": {
       "total": 6,
-      "variacion_dia": 0.52
+      "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
       "total": 8,
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 7,
+      "total": 6,
       "variacion_dia": 0.0
     },
     "Para los Peques": {
@@ -52,5 +52,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-10-22"
+  "fecha_actualizacion": "2026-10-23"
 }
