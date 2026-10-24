@@ -48,6 +48,12 @@
     "precio_hoy": 5500.0
   },
   {
+    "nombre": "Bombones Halloween x 10",
+    "categoria": "Halloween",
+    "diff_pct": 16.67,
+    "precio_hoy": 17500.0
+  },
+  {
     "nombre": "1 kg de Helado",
     "categoria": "Helados",
     "diff_pct": 10.34,

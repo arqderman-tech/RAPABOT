@@ -1,8 +1,12 @@
 {
-  "variacion_dia": 20.64,
-  "variacion_mes": 24.3,
-  "total_productos": 109,
+  "variacion_dia": 22.67,
+  "variacion_mes": 26.83,
+  "total_productos": 104,
   "categorias": {
+    "Halloween": {
+      "total": 5,
+      "variacion_dia": null
+    },
     "Gift Cards": {
       "total": 8,
       "variacion_dia": -52.34
@@ -20,15 +24,15 @@
       "variacion_dia": 0.0
     },
     "Chocolates": {
-      "total": 18,
+      "total": 16,
       "variacion_dia": 0.0
     },
     "Alfajores": {
-      "total": 7,
+      "total": 6,
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
-      "total": 8,
+      "total": 5,
       "variacion_dia": 0.0
     },
     "Línea Pistacho & Dubái": {
@@ -36,15 +40,15 @@
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
-      "total": 8,
-      "variacion_dia": 0.0
-    },
-    "Regalos": {
       "total": 6,
       "variacion_dia": 0.0
     },
+    "Regalos": {
+      "total": 5,
+      "variacion_dia": 0.0
+    },
     "Para los Peques": {
-      "total": 12,
+      "total": 11,
       "variacion_dia": 0.0
     },
     "Para el Té": {
@@ -52,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-10-23"
+  "fecha_actualizacion": "2026-10-24"
 }
