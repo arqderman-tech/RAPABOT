@@ -1,11 +1,11 @@
 {
-  "variacion_dia": 22.67,
-  "variacion_mes": 26.83,
-  "total_productos": 104,
+  "variacion_dia": -0.38,
+  "variacion_mes": 27.24,
+  "total_productos": 99,
   "categorias": {
     "Halloween": {
-      "total": 5,
-      "variacion_dia": null
+      "total": 4,
+      "variacion_dia": 0.0
     },
     "Gift Cards": {
       "total": 8,
@@ -28,7 +28,7 @@
       "variacion_dia": 0.0
     },
     "Alfajores": {
-      "total": 6,
+      "total": 4,
       "variacion_dia": 0.0
     },
     "Pailas & Garrapiñadas": {
@@ -44,11 +44,11 @@
       "variacion_dia": 0.0
     },
     "Regalos": {
-      "total": 5,
+      "total": 4,
       "variacion_dia": 0.0
     },
     "Para los Peques": {
-      "total": 11,
+      "total": 10,
       "variacion_dia": 0.0
     },
     "Para el Té": {
@@ -56,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-10-24"
+  "fecha_actualizacion": "2026-10-25"
 }
