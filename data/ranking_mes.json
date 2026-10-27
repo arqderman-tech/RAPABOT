@@ -48,12 +48,6 @@
     "precio_hoy": 5500.0
   },
   {
-    "nombre": "Bombones Halloween x 10",
-    "categoria": "Halloween",
-    "diff_pct": 16.67,
-    "precio_hoy": 17500.0
-  },
-  {
     "nombre": "1 kg de Helado",
     "categoria": "Helados",
     "diff_pct": 10.34,
@@ -72,6 +66,12 @@
     "precio_hoy": 11500.0
   },
   {
+    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
+    "categoria": "Rapa-Dúos",
+    "diff_pct": 9.38,
+    "precio_hoy": 28000.0
+  },
+  {
     "nombre": "Pote FRANUÍ LECHE + 1/2 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 9.38,
@@ -84,19 +84,13 @@
     "precio_hoy": 28000.0
   },
   {
-    "nombre": "Pote FRANUÍ AMARGO + 1/2 kg de helado",
-    "categoria": "Rapa-Dúos",
-    "diff_pct": 9.38,
-    "precio_hoy": 28000.0
-  },
-  {
     "nombre": "Pote FRANUÍ PINK + 1/2 kg de Helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 9.38,
     "precio_hoy": 28000.0
   },
   {
-    "nombre": "Pote FRANUÍ LECHE + 1/4 kg de helado",
+    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 8.7,
     "precio_hoy": 20000.0
@@ -114,22 +108,16 @@
     "precio_hoy": 20000.0
   },
   {
+    "nombre": "Pote FRANUÍ LECHE + 1/4 kg de helado",
+    "categoria": "Rapa-Dúos",
+    "diff_pct": 8.7,
+    "precio_hoy": 20000.0
+  },
+  {
     "nombre": "Pote FRANUÍ FREE+ 1/4 de helado",
     "categoria": "Rapa-Dúos",
     "diff_pct": 8.7,
     "precio_hoy": 20000.0
-  },
-  {
-    "nombre": "Pote FRANUÍ AMARGO + 1/4 kg de helado",
-    "categoria": "Rapa-Dúos",
-    "diff_pct": 8.7,
-    "precio_hoy": 20000.0
-  },
-  {
-    "nombre": "Dúo FREE",
-    "categoria": "Franuí",
-    "diff_pct": 7.59,
-    "precio_hoy": 17000.0
   },
   {
     "nombre": "Franuí FREE",
@@ -138,25 +126,31 @@
     "precio_hoy": 8500.0
   },
   {
-    "nombre": "Duo Franuí FREE + AMARGO",
-    "categoria": "Franuí",
-    "diff_pct": 7.59,
-    "precio_hoy": 17000.0
-  },
-  {
     "nombre": "Dúo Franuí FREE + LECHE",
     "categoria": "Franuí",
     "diff_pct": 7.59,
     "precio_hoy": 17000.0
   },
   {
-    "nombre": "Team Franui (Leche, Amargo, Pink y Free)",
+    "nombre": "Dúo FREE",
     "categoria": "Franuí",
     "diff_pct": 7.59,
-    "precio_hoy": 34000.0
+    "precio_hoy": 17000.0
   },
   {
     "nombre": "Duo Franui FREE + PINK",
+    "categoria": "Franuí",
+    "diff_pct": 7.59,
+    "precio_hoy": 17000.0
+  },
+  {
+    "nombre": "Duo Franuí FREE + AMARGO",
+    "categoria": "Franuí",
+    "diff_pct": 7.59,
+    "precio_hoy": 17000.0
+  },
+  {
+    "nombre": "Dúo Franuí PINK",
     "categoria": "Franuí",
     "diff_pct": 7.59,
     "precio_hoy": 17000.0
@@ -168,13 +162,19 @@
     "precio_hoy": 25500.0
   },
   {
-    "nombre": "Dúo Franuí PINK",
+    "nombre": "Pote Franuí LECHE",
     "categoria": "Franuí",
     "diff_pct": 7.59,
-    "precio_hoy": 17000.0
+    "precio_hoy": 8500.0
   },
   {
-    "nombre": "Pote Franuí LECHE",
+    "nombre": "Team Franui (Leche, Amargo, Pink y Free)",
+    "categoria": "Franuí",
+    "diff_pct": 7.59,
+    "precio_hoy": 34000.0
+  },
+  {
+    "nombre": "Franuí AMARGO",
     "categoria": "Franuí",
     "diff_pct": 7.59,
     "precio_hoy": 8500.0

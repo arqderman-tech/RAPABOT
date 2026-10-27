@@ -40,17 +40,5 @@
     "categoria": "Gift Cards",
     "diff_pct": 50.0,
     "precio_hoy": 15000.0
-  },
-  {
-    "nombre": "Bombones Halloween x 10",
-    "categoria": "Halloween",
-    "diff_pct": 16.67,
-    "precio_hoy": 17500.0
-  },
-  {
-    "nombre": "Dúo Pistacho Lovers",
-    "categoria": "Línea Pistacho & Dubái",
-    "diff_pct": 3.12,
-    "precio_hoy": 16500.0
   }
 ]
