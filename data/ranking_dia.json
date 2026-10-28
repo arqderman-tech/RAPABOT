@@ -2,43 +2,49 @@
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 700.0,
+    "diff_pct": 166.67,
     "precio_hoy": 80000.0
   },
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 500.0,
+    "diff_pct": 100.0,
     "precio_hoy": 60000.0
   },
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 400.0,
+    "diff_pct": 66.67,
     "precio_hoy": 50000.0
   },
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 300.0,
+    "diff_pct": 33.33,
     "precio_hoy": 40000.0
   },
   {
-    "nombre": "Gift Card Online",
-    "categoria": "Gift Cards",
-    "diff_pct": 200.0,
-    "precio_hoy": 30000.0
+    "nombre": "Rapanuino Blanco",
+    "categoria": "Para el Té",
+    "diff_pct": 30.95,
+    "precio_hoy": 5500.0
   },
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 100.0,
+    "diff_pct": -33.33,
     "precio_hoy": 20000.0
   },
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 50.0,
+    "diff_pct": -50.0,
     "precio_hoy": 15000.0
+  },
+  {
+    "nombre": "Gift Card Online",
+    "categoria": "Gift Cards",
+    "diff_pct": -66.67,
+    "precio_hoy": 10000.0
   }
 ]
