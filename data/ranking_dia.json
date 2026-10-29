@@ -24,12 +24,6 @@
     "precio_hoy": 40000.0
   },
   {
-    "nombre": "Rapanuino Blanco",
-    "categoria": "Para el Té",
-    "diff_pct": 30.95,
-    "precio_hoy": 5500.0
-  },
-  {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
     "diff_pct": -33.33,

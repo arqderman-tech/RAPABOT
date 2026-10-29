@@ -1,7 +1,7 @@
 {
-  "variacion_dia": 1.82,
-  "variacion_mes": 19.65,
-  "total_productos": 137,
+  "variacion_dia": 1.57,
+  "variacion_mes": 19.5,
+  "total_productos": 138,
   "categorias": {
     "Halloween": {
       "total": 4,
@@ -52,13 +52,13 @@
       "variacion_dia": 0.0
     },
     "Para los Peques": {
-      "total": 13,
+      "total": 14,
       "variacion_dia": 0.0
     },
     "Para el Té": {
       "total": 15,
-      "variacion_dia": 2.06
+      "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-10-28"
+  "fecha_actualizacion": "2026-10-29"
 }
