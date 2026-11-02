@@ -1,12 +1,8 @@
 {
-  "variacion_dia": 5.25,
-  "variacion_mes": 19.06,
-  "total_productos": 138,
+  "variacion_dia": 12.28,
+  "variacion_mes": 25.86,
+  "total_productos": 135,
   "categorias": {
-    "Halloween": {
-      "total": 4,
-      "variacion_dia": 0.0
-    },
     "Gift Cards": {
       "total": 8,
       "variacion_dia": -52.34
@@ -21,44 +17,44 @@
     },
     "Rapa-Dúos": {
       "total": 9,
-      "variacion_dia": 0.0
+      "variacion_dia": 0.28
     },
     "Chocolates": {
       "total": 23,
-      "variacion_dia": 0.0
+      "variacion_dia": 9.63
     },
     "Alfajores": {
       "total": 8,
-      "variacion_dia": 0.0
+      "variacion_dia": 15.38
     },
     "Pailas & Garrapiñadas": {
       "total": 10,
-      "variacion_dia": 0.0
+      "variacion_dia": 8.88
     },
     "Línea Pistacho & Dubái": {
       "total": 7,
-      "variacion_dia": 0.0
+      "variacion_dia": 7.79
     },
     "Línea Marroc & Nuicciolato": {
       "total": 9,
-      "variacion_dia": 0.0
+      "variacion_dia": 8.68
     },
     "Línea Milhojas & Praliné": {
       "total": 2,
-      "variacion_dia": 0.0
+      "variacion_dia": 11.11
     },
     "Regalos": {
-      "total": 12,
-      "variacion_dia": 0.0
+      "total": 13,
+      "variacion_dia": 7.65
     },
     "Para los Peques": {
       "total": 14,
-      "variacion_dia": 0.0
+      "variacion_dia": 6.74
     },
     "Para el Té": {
       "total": 15,
-      "variacion_dia": 0.0
+      "variacion_dia": 9.84
     }
   },
-  "fecha_actualizacion": "2026-11-01"
+  "fecha_actualizacion": "2026-11-02"
 }
