@@ -40,5 +40,17 @@
     "categoria": "Gift Cards",
     "diff_pct": 50.0,
     "precio_hoy": 15000.0
+  },
+  {
+    "nombre": "Turrón de Almendras bañado chocolate semiamargo",
+    "categoria": "Navidad",
+    "diff_pct": 14.29,
+    "precio_hoy": 8000.0
+  },
+  {
+    "nombre": "Turrón de Almendras",
+    "categoria": "Navidad",
+    "diff_pct": 7.69,
+    "precio_hoy": 7000.0
   }
 ]

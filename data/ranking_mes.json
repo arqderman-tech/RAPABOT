@@ -43,51 +43,21 @@
   },
   {
     "nombre": "Rapanuino Clásico",
-    "categoria": "Para el Té",
+    "categoria": "Navidad",
     "diff_pct": 42.86,
     "precio_hoy": 6000.0
   },
   {
     "nombre": "Rapanuino Blanco",
-    "categoria": "Para el Té",
+    "categoria": "Navidad",
     "diff_pct": 42.86,
     "precio_hoy": 6000.0
   },
   {
     "nombre": "Torta Galesa",
-    "categoria": "Para el Té",
+    "categoria": "Navidad",
     "diff_pct": 35.0,
     "precio_hoy": 13500.0
-  },
-  {
-    "nombre": "Alfajor de dulce de leche glaseado",
-    "categoria": "Alfajores",
-    "diff_pct": 15.38,
-    "precio_hoy": 3000.0
-  },
-  {
-    "nombre": "Alfajor de pistacho y dulce de leche",
-    "categoria": "Alfajores",
-    "diff_pct": 15.38,
-    "precio_hoy": 3000.0
-  },
-  {
-    "nombre": "Alfajor de dulce de frambuesas glaseado",
-    "categoria": "Alfajores",
-    "diff_pct": 15.38,
-    "precio_hoy": 3000.0
-  },
-  {
-    "nombre": "Alfajor de dulce de leche con almendras y avellanas bañado en chocolate leche",
-    "categoria": "Alfajores",
-    "diff_pct": 15.38,
-    "precio_hoy": 3000.0
-  },
-  {
-    "nombre": "Alfajor de dulce de leche bañado en chocolate semiamargo",
-    "categoria": "Alfajores",
-    "diff_pct": 15.38,
-    "precio_hoy": 3000.0
   },
   {
     "nombre": "Alfajor blanco con almendras de dulce de leche",
@@ -108,10 +78,46 @@
     "precio_hoy": 3000.0
   },
   {
+    "nombre": "Alfajor de dulce de frambuesas glaseado",
+    "categoria": "Alfajores",
+    "diff_pct": 15.38,
+    "precio_hoy": 3000.0
+  },
+  {
+    "nombre": "Alfajor de pistacho y dulce de leche",
+    "categoria": "Alfajores",
+    "diff_pct": 15.38,
+    "precio_hoy": 3000.0
+  },
+  {
+    "nombre": "Alfajor de dulce de leche bañado en chocolate semiamargo",
+    "categoria": "Alfajores",
+    "diff_pct": 15.38,
+    "precio_hoy": 3000.0
+  },
+  {
+    "nombre": "Alfajor de dulce de leche con almendras y avellanas bañado en chocolate leche",
+    "categoria": "Alfajores",
+    "diff_pct": 15.38,
+    "precio_hoy": 3000.0
+  },
+  {
+    "nombre": "Alfajor de dulce de leche glaseado",
+    "categoria": "Alfajores",
+    "diff_pct": 15.38,
+    "precio_hoy": 3000.0
+  },
+  {
     "nombre": "Colección Amo el Chocolate y DDL",
     "categoria": "Regalos",
     "diff_pct": 14.54,
     "precio_hoy": 26000.0
+  },
+  {
+    "nombre": "Turrón de Almendras bañado chocolate semiamargo",
+    "categoria": "Navidad",
+    "diff_pct": 14.29,
+    "precio_hoy": 8000.0
   },
   {
     "nombre": "Pelota de Fútbol",
@@ -120,26 +126,26 @@
     "precio_hoy": 4500.0
   },
   {
-    "nombre": "Garrapiñada de nueces pecan",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 12.07,
-    "precio_hoy": 6500.0
-  },
-  {
-    "nombre": "Garrapiñada de castañas de cajú",
-    "categoria": "Pailas & Garrapiñadas",
-    "diff_pct": 12.07,
-    "precio_hoy": 6500.0
-  },
-  {
     "nombre": "Garrapiñada de almendras",
-    "categoria": "Pailas & Garrapiñadas",
+    "categoria": "Navidad",
     "diff_pct": 12.07,
     "precio_hoy": 6500.0
   },
   {
     "nombre": "Garrapiñada de avellanas",
-    "categoria": "Pailas & Garrapiñadas",
+    "categoria": "Navidad",
+    "diff_pct": 12.07,
+    "precio_hoy": 6500.0
+  },
+  {
+    "nombre": "Garrapiñada de nueces pecan",
+    "categoria": "Navidad",
+    "diff_pct": 12.07,
+    "precio_hoy": 6500.0
+  },
+  {
+    "nombre": "Garrapiñada de castañas de cajú",
+    "categoria": "Navidad",
     "diff_pct": 12.07,
     "precio_hoy": 6500.0
   },
@@ -156,26 +162,20 @@
     "precio_hoy": 20500.0
   },
   {
-    "nombre": "Milhojas Chocolate con leche",
+    "nombre": "Milhojas Chocolate Blanco",
     "categoria": "Línea Milhojas & Praliné",
-    "diff_pct": 11.11,
-    "precio_hoy": 5000.0
-  },
-  {
-    "nombre": "Barrita Nuicciolato",
-    "categoria": "Línea Marroc & Nuicciolato",
-    "diff_pct": 11.11,
-    "precio_hoy": 5000.0
-  },
-  {
-    "nombre": "Barrita marroc 50 grs",
-    "categoria": "Línea Marroc & Nuicciolato",
     "diff_pct": 11.11,
     "precio_hoy": 5000.0
   },
   {
     "nombre": "Barrita marroc crocante 50 grs",
     "categoria": "Línea Marroc & Nuicciolato",
+    "diff_pct": 11.11,
+    "precio_hoy": 5000.0
+  },
+  {
+    "nombre": "Milhojas Chocolate con leche",
+    "categoria": "Línea Milhojas & Praliné",
     "diff_pct": 11.11,
     "precio_hoy": 5000.0
   }
