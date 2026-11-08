@@ -1,6 +1,6 @@
 {
   "variacion_dia": 4.71,
-  "variacion_mes": 25.51,
+  "variacion_mes": 25.46,
   "total_productos": 154,
   "categorias": {
     "Navidad": {
@@ -56,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-11-07"
+  "fecha_actualizacion": "2026-11-08"
 }
