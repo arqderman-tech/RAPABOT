@@ -66,6 +66,12 @@
     "precio_hoy": 3000.0
   },
   {
+    "nombre": "Alfajor de pistacho y dulce de leche",
+    "categoria": "Alfajores",
+    "diff_pct": 15.38,
+    "precio_hoy": 3000.0
+  },
+  {
     "nombre": "Alfajor de mousse de chocolate bañado en chocolate amargo",
     "categoria": "Alfajores",
     "diff_pct": 15.38,
@@ -84,19 +90,13 @@
     "precio_hoy": 3000.0
   },
   {
-    "nombre": "Alfajor de pistacho y dulce de leche",
+    "nombre": "Alfajor de dulce de leche con almendras y avellanas bañado en chocolate leche",
     "categoria": "Alfajores",
     "diff_pct": 15.38,
     "precio_hoy": 3000.0
   },
   {
     "nombre": "Alfajor de dulce de leche bañado en chocolate semiamargo",
-    "categoria": "Alfajores",
-    "diff_pct": 15.38,
-    "precio_hoy": 3000.0
-  },
-  {
-    "nombre": "Alfajor de dulce de leche con almendras y avellanas bañado en chocolate leche",
     "categoria": "Alfajores",
     "diff_pct": 15.38,
     "precio_hoy": 3000.0
@@ -120,13 +120,13 @@
     "precio_hoy": 4500.0
   },
   {
-    "nombre": "Garrapiñada de castañas de cajú",
+    "nombre": "Garrapiñada de nueces pecan",
     "categoria": "Navidad",
     "diff_pct": 12.07,
     "precio_hoy": 6500.0
   },
   {
-    "nombre": "Garrapiñada de almendras",
+    "nombre": "Garrapiñada de castañas de cajú",
     "categoria": "Navidad",
     "diff_pct": 12.07,
     "precio_hoy": 6500.0
@@ -138,7 +138,7 @@
     "precio_hoy": 6500.0
   },
   {
-    "nombre": "Garrapiñada de nueces pecan",
+    "nombre": "Garrapiñada de almendras",
     "categoria": "Navidad",
     "diff_pct": 12.07,
     "precio_hoy": 6500.0
@@ -162,6 +162,12 @@
     "precio_hoy": 5000.0
   },
   {
+    "nombre": "Barrita marroc crocante 50 grs",
+    "categoria": "Línea Marroc & Nuicciolato",
+    "diff_pct": 11.11,
+    "precio_hoy": 5000.0
+  },
+  {
     "nombre": "Milhojas Chocolate Blanco",
     "categoria": "Línea Milhojas & Praliné",
     "diff_pct": 11.11,
@@ -169,12 +175,6 @@
   },
   {
     "nombre": "Barrita marroc 50 grs",
-    "categoria": "Línea Marroc & Nuicciolato",
-    "diff_pct": 11.11,
-    "precio_hoy": 5000.0
-  },
-  {
-    "nombre": "Barrita Nuicciolato",
     "categoria": "Línea Marroc & Nuicciolato",
     "diff_pct": 11.11,
     "precio_hoy": 5000.0

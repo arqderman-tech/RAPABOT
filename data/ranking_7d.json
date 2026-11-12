@@ -1,56 +1,50 @@
 [
   {
-    "nombre": "Gift Card Online",
-    "categoria": "Gift Cards",
-    "diff_pct": 700.0,
-    "precio_hoy": 80000.0
+    "nombre": "Tejas leche",
+    "categoria": "Chocolates",
+    "diff_pct": 9.09,
+    "precio_hoy": 6000.0
   },
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 500.0,
+    "diff_pct": -25.0,
     "precio_hoy": 60000.0
   },
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 400.0,
+    "diff_pct": -37.5,
     "precio_hoy": 50000.0
   },
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 300.0,
+    "diff_pct": -50.0,
     "precio_hoy": 40000.0
   },
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 200.0,
+    "diff_pct": -62.5,
     "precio_hoy": 30000.0
   },
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 100.0,
+    "diff_pct": -75.0,
     "precio_hoy": 20000.0
   },
   {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
-    "diff_pct": 50.0,
+    "diff_pct": -81.25,
     "precio_hoy": 15000.0
   },
   {
-    "nombre": "Turrón de Almendras bañado chocolate semiamargo",
-    "categoria": "Navidad",
-    "diff_pct": 14.29,
-    "precio_hoy": 8000.0
-  },
-  {
-    "nombre": "Turrón de Almendras",
-    "categoria": "Navidad",
-    "diff_pct": 7.69,
-    "precio_hoy": 7000.0
+    "nombre": "Gift Card Online",
+    "categoria": "Gift Cards",
+    "diff_pct": -87.5,
+    "precio_hoy": 10000.0
   }
 ]
