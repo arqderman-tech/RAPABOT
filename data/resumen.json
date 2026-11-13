@@ -1,10 +1,10 @@
 {
-  "variacion_dia": 4.7,
-  "variacion_mes": 25.47,
-  "total_productos": 155,
+  "variacion_dia": -2.62,
+  "variacion_mes": 24.56,
+  "total_productos": 158,
   "categorias": {
     "Navidad": {
-      "total": 34,
+      "total": 36,
       "variacion_dia": 0.0
     },
     "Gift Cards": {
@@ -25,7 +25,7 @@
     },
     "Chocolates": {
       "total": 25,
-      "variacion_dia": 0.11
+      "variacion_dia": 0.0
     },
     "Alfajores": {
       "total": 8,
@@ -36,8 +36,8 @@
       "variacion_dia": 0.0
     },
     "Línea Marroc & Nuicciolato": {
-      "total": 8,
-      "variacion_dia": 0.0
+      "total": 9,
+      "variacion_dia": 1.07
     },
     "Línea Milhojas & Praliné": {
       "total": 2,
@@ -56,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-11-12"
+  "fecha_actualizacion": "2026-11-13"
 }
