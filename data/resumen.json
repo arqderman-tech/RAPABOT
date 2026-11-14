@@ -1,6 +1,6 @@
 {
-  "variacion_dia": -2.62,
-  "variacion_mes": 24.56,
+  "variacion_dia": -2.65,
+  "variacion_mes": 24.54,
   "total_productos": 158,
   "categorias": {
     "Navidad": {
@@ -37,7 +37,7 @@
     },
     "Línea Marroc & Nuicciolato": {
       "total": 9,
-      "variacion_dia": 1.07
+      "variacion_dia": 0.0
     },
     "Línea Milhojas & Praliné": {
       "total": 2,
@@ -56,5 +56,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-11-13"
+  "fecha_actualizacion": "2026-11-14"
 }
