@@ -1,5 +1,11 @@
 [
   {
+    "nombre": "Colección Dulzura",
+    "categoria": "Regalos",
+    "diff_pct": 10.03,
+    "precio_hoy": 34000.0
+  },
+  {
     "nombre": "Gift Card Online",
     "categoria": "Gift Cards",
     "diff_pct": -25.0,

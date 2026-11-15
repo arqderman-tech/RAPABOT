@@ -30,6 +30,12 @@
     "precio_hoy": 30000.0
   },
   {
+    "nombre": "Colección Dulzura",
+    "categoria": "Regalos",
+    "diff_pct": 10.03,
+    "precio_hoy": 34000.0
+  },
+  {
     "nombre": "Barrita marroc 100 grs",
     "categoria": "Línea Marroc & Nuicciolato",
     "diff_pct": 9.59,
