@@ -30,6 +30,12 @@
     "precio_hoy": 30000.0
   },
   {
+    "nombre": "Panettone Pistachos 720 grs.",
+    "categoria": "Navidad",
+    "diff_pct": 16.0,
+    "precio_hoy": 43500.0
+  },
+  {
     "nombre": "Colección Dulzura",
     "categoria": "Regalos",
     "diff_pct": 10.03,
@@ -46,6 +52,12 @@
     "categoria": "Chocolates",
     "diff_pct": 9.09,
     "precio_hoy": 6000.0
+  },
+  {
+    "nombre": "Pan Dulce Sin Gluten 700 gr",
+    "categoria": "Navidad",
+    "diff_pct": 1.52,
+    "precio_hoy": 33500.0
   },
   {
     "nombre": "Gift Card Online",
