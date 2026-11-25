@@ -60,13 +60,13 @@
     "precio_hoy": 3000.0
   },
   {
-    "nombre": "Alfajor de mousse de chocolate bañado en chocolate amargo",
+    "nombre": "Alfajor de dulce de frambuesas bañado en chocolate con leche",
     "categoria": "Alfajores",
     "diff_pct": 15.38,
     "precio_hoy": 3000.0
   },
   {
-    "nombre": "Alfajor de dulce de leche glaseado",
+    "nombre": "Alfajor de mousse de chocolate bañado en chocolate amargo",
     "categoria": "Alfajores",
     "diff_pct": 15.38,
     "precio_hoy": 3000.0
@@ -90,7 +90,7 @@
     "precio_hoy": 3000.0
   },
   {
-    "nombre": "Alfajor de dulce de frambuesas bañado en chocolate con leche",
+    "nombre": "Alfajor de dulce de leche glaseado",
     "categoria": "Alfajores",
     "diff_pct": 15.38,
     "precio_hoy": 3000.0
@@ -114,12 +114,6 @@
     "precio_hoy": 4500.0
   },
   {
-    "nombre": "Garrapiñada de almendras",
-    "categoria": "Navidad",
-    "diff_pct": 12.07,
-    "precio_hoy": 6500.0
-  },
-  {
     "nombre": "Garrapiñada de castañas de cajú",
     "categoria": "Navidad",
     "diff_pct": 12.07,
@@ -138,16 +132,16 @@
     "precio_hoy": 6500.0
   },
   {
+    "nombre": "Garrapiñada de almendras",
+    "categoria": "Navidad",
+    "diff_pct": 12.07,
+    "precio_hoy": 6500.0
+  },
+  {
     "nombre": "Tableta Dubai 80 grs",
     "categoria": "Línea Pistacho & Dubái",
     "diff_pct": 11.76,
     "precio_hoy": 9500.0
-  },
-  {
-    "nombre": "Milhojas Chocolate Blanco",
-    "categoria": "Línea Milhojas & Praliné",
-    "diff_pct": 11.11,
-    "precio_hoy": 5000.0
   },
   {
     "nombre": "Barrita Nuicciolato",
@@ -156,7 +150,7 @@
     "precio_hoy": 5000.0
   },
   {
-    "nombre": "Milhojas Chocolate con leche",
+    "nombre": "Milhojas Chocolate Blanco",
     "categoria": "Línea Milhojas & Praliné",
     "diff_pct": 11.11,
     "precio_hoy": 5000.0
@@ -164,6 +158,12 @@
   {
     "nombre": "Barrita marroc 50 grs",
     "categoria": "Línea Marroc & Nuicciolato",
+    "diff_pct": 11.11,
+    "precio_hoy": 5000.0
+  },
+  {
+    "nombre": "Milhojas Chocolate con leche",
+    "categoria": "Línea Milhojas & Praliné",
     "diff_pct": 11.11,
     "precio_hoy": 5000.0
   },
