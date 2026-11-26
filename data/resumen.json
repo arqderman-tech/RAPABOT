@@ -1,11 +1,15 @@
 {
-  "variacion_dia": -2.55,
-  "variacion_mes": 23.45,
-  "total_productos": 165,
+  "variacion_dia": -2.54,
+  "variacion_mes": 8.82,
+  "total_productos": 168,
   "categorias": {
     "Navidad": {
       "total": 41,
       "variacion_dia": 0.0
+    },
+    "Colección Fiestas": {
+      "total": 3,
+      "variacion_dia": null
     },
     "Gift Cards": {
       "total": 8,
@@ -56,5 +60,5 @@
       "variacion_dia": 0.0
     }
   },
-  "fecha_actualizacion": "2026-11-25"
+  "fecha_actualizacion": "2026-11-26"
 }
